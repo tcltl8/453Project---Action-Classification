@@ -1,2668 +1,1412 @@
-Index,Label
-22,Zooming In With Full Hand
-227,Zooming Out With Two Fingers
-254,Swiping Left
-332,Sliding Two Fingers Right
-387,Turning Hand Counterclockwise
-418,Drumming Fingers
-472,Swiping Left
-476,Swiping Up
-559,Sliding Two Fingers Left
-635,No gesture
-952,No gesture
-1041,Swiping Right
-1103,Zooming Out With Full Hand
-1113,Swiping Up
-1240,Thumb Down
-1271,Doing other things
-1322,Swiping Left
-1324,Pulling Two Fingers In
-1426,Doing other things
-1446,Zooming In With Full Hand
-1447,Thumb Up
-1449,No gesture
-1472,Thumb Down
-1508,Pulling Hand In
-1547,Sliding Two Fingers Right
-1555,Zooming Out With Two Fingers
-1650,Thumb Down
-1756,Thumb Up
-1803,Pulling Two Fingers In
-1885,Pulling Hand In
-1937,Rolling Hand Backward
-2018,Thumb Up
-2019,Shaking Hand
-2150,Swiping Down
-2154,Zooming Out With Two Fingers
-2258,Pulling Hand In
-2342,Thumb Down
-2367,Pulling Two Fingers In
-2409,Zooming Out With Two Fingers
-2484,Zooming Out With Two Fingers
-2614,No gesture
-2724,Zooming Out With Full Hand
-2810,Turning Hand Counterclockwise
-2907,Turning Hand Counterclockwise
-2933,Pulling Hand In
-2956,No gesture
-3157,Shaking Hand
-3161,Shaking Hand
-3243,Thumb Up
-3253,Sliding Two Fingers Down
-3312,Zooming Out With Full Hand
-3323,No gesture
-3396,Sliding Two Fingers Up
-3529,Swiping Down
-3547,Swiping Right
-3668,Rolling Hand Forward
-3741,Thumb Up
-3747,Sliding Two Fingers Right
-3813,Swiping Left
-3834,Swiping Up
-3896,Thumb Up
-3949,Swiping Up
-3967,Pushing Two Fingers Away
-3974,Pushing Hand Away
-4030,Sliding Two Fingers Left
-4212,Pulling Two Fingers In
-4319,Zooming Out With Full Hand
-4404,Sliding Two Fingers Left
-4413,Turning Hand Counterclockwise
-4427,Sliding Two Fingers Down
-4431,Pushing Two Fingers Away
-4441,No gesture
-4460,Rolling Hand Backward
-4507,Turning Hand Counterclockwise
-4510,Pulling Hand In
-4540,Sliding Two Fingers Up
-4567,No gesture
-4597,Zooming Out With Full Hand
-4668,Zooming Out With Two Fingers
-4690,No gesture
-4804,Pulling Two Fingers In
-4857,Thumb Down
-4908,Zooming In With Two Fingers
-4921,Zooming In With Two Fingers
-5047,Pushing Two Fingers Away
-5064,Rolling Hand Backward
-5076,Turning Hand Counterclockwise
-5190,Doing other things
-5312,Doing other things
-5403,Zooming Out With Full Hand
-5429,Rolling Hand Backward
-5549,Zooming In With Full Hand
-5564,Turning Hand Counterclockwise
-5614,Zooming Out With Two Fingers
-5653,Swiping Down
-5667,Swiping Up
-5736,No gesture
-5770,Doing other things
-5771,Zooming Out With Two Fingers
-5780,Turning Hand Counterclockwise
-5799,Thumb Up
-5800,Doing other things
-5840,No gesture
-5841,Swiping Down
-5938,Sliding Two Fingers Down
-6026,Zooming Out With Full Hand
-6068,Shaking Hand
-6155,No gesture
-6161,Zooming In With Two Fingers
-6206,Rolling Hand Forward
-6238,Doing other things
-6520,Zooming Out With Full Hand
-6668,Drumming Fingers
-6674,Zooming Out With Two Fingers
-6784,Swiping Up
-6811,Zooming In With Two Fingers
-6920,Sliding Two Fingers Down
-6931,Shaking Hand
-6934,Zooming Out With Full Hand
-6963,Rolling Hand Forward
-7059,Rolling Hand Backward
-7082,Pushing Two Fingers Away
-7110,Swiping Down
-7167,Turning Hand Clockwise
-7168,Doing other things
-7202,Pulling Two Fingers In
-7231,Swiping Up
-7237,Swiping Up
-7260,Pulling Two Fingers In
-7338,Swiping Up
-7380,Swiping Left
-7426,Pulling Hand In
-7462,Doing other things
-7521,Pushing Two Fingers Away
-7548,Sliding Two Fingers Right
-7567,Sliding Two Fingers Left
-7609,Turning Hand Counterclockwise
-7663,Turning Hand Counterclockwise
-7701,Thumb Down
-7706,Swiping Left
-7742,Sliding Two Fingers Left
-7745,Zooming In With Two Fingers
-7779,Thumb Down
-7782,Thumb Up
-7793,No gesture
-7936,Pushing Two Fingers Away
-8002,Stop Sign
-8075,Rolling Hand Forward
-8121,Zooming In With Full Hand
-8169,Swiping Left
-8247,Zooming In With Full Hand
-8347,Stop Sign
-8379,Doing other things
-8449,Swiping Right
-8459,Sliding Two Fingers Left
-8592,Pulling Two Fingers In
-8636,Rolling Hand Forward
-8655,Pulling Hand In
-8665,Zooming Out With Two Fingers
-8683,Shaking Hand
-8723,Doing other things
-8749,Shaking Hand
-8772,Pushing Two Fingers Away
-8828,Swiping Down
-8858,Swiping Right
-8949,Sliding Two Fingers Up
-9014,Swiping Right
-9046,Sliding Two Fingers Down
-9168,Rolling Hand Backward
-9223,Thumb Up
-9312,Sliding Two Fingers Right
-9343,Pulling Two Fingers In
-9372,Swiping Right
-9448,Rolling Hand Backward
-9483,Swiping Up
-9551,Doing other things
-9582,Swiping Right
-9611,Swiping Left
-9705,Pushing Hand Away
-9709,No gesture
-9738,Stop Sign
-9761,Zooming Out With Full Hand
-9799,Thumb Up
-9828,Shaking Hand
-9975,Turning Hand Clockwise
-9988,Rolling Hand Forward
-10136,Swiping Left
-10181,Turning Hand Counterclockwise
-10217,Turning Hand Clockwise
-10264,Swiping Left
-10279,Pushing Two Fingers Away
-10332,Zooming Out With Full Hand
-10579,Sliding Two Fingers Down
-10776,Sliding Two Fingers Right
-10812,Turning Hand Counterclockwise
-10864,Zooming Out With Full Hand
-10867,Swiping Right
-10934,Drumming Fingers
-11001,Rolling Hand Forward
-11095,Drumming Fingers
-11188,Pulling Two Fingers In
-11193,No gesture
-11244,Sliding Two Fingers Up
-11277,Turning Hand Clockwise
-11305,Thumb Down
-11316,Sliding Two Fingers Right
-11474,Zooming Out With Two Fingers
-11482,Pushing Two Fingers Away
-11557,Stop Sign
-11568,Pushing Hand Away
-11572,Thumb Up
-11700,Zooming Out With Two Fingers
-11747,Zooming In With Full Hand
-11760,Pushing Two Fingers Away
-11765,Pulling Hand In
-11774,Swiping Right
-11899,Swiping Left
-11952,Rolling Hand Forward
-12198,Pushing Hand Away
-12280,Swiping Right
-12355,Swiping Down
-12392,Swiping Up
-12482,Zooming Out With Two Fingers
-12533,Rolling Hand Backward
-12536,Swiping Left
-12558,Rolling Hand Forward
-12560,Pulling Two Fingers In
-12595,Stop Sign
-12651,Sliding Two Fingers Left
-12731,Turning Hand Counterclockwise
-12737,No gesture
-12753,Swiping Left
-12780,Stop Sign
-12810,Swiping Left
-12836,Pulling Two Fingers In
-12857,Zooming In With Full Hand
-12870,Thumb Down
-12945,Swiping Up
-12991,Swiping Right
-12998,Pushing Hand Away
-13137,Zooming In With Full Hand
-13227,Sliding Two Fingers Right
-13261,Zooming In With Full Hand
-13263,Turning Hand Counterclockwise
-13287,Sliding Two Fingers Up
-13294,Swiping Left
-13359,Thumb Up
-13481,Thumb Up
-13540,Sliding Two Fingers Right
-13575,Swiping Right
-13615,Sliding Two Fingers Left
-13678,Thumb Down
-13780,Zooming Out With Full Hand
-13821,Doing other things
-13827,Zooming In With Full Hand
-13868,Turning Hand Clockwise
-14006,Swiping Down
-14013,Pulling Two Fingers In
-14050,Shaking Hand
-14070,Pulling Hand In
-14122,Pulling Hand In
-14159,Sliding Two Fingers Right
-14188,Sliding Two Fingers Down
-14242,Sliding Two Fingers Right
-14279,Swiping Up
-14284,Sliding Two Fingers Down
-14285,Sliding Two Fingers Up
-14308,Doing other things
-14401,Swiping Up
-14450,Swiping Left
-14456,Zooming In With Two Fingers
-14487,Swiping Down
-14904,Swiping Up
-15103,Sliding Two Fingers Right
-15110,Zooming In With Full Hand
-15280,Zooming In With Two Fingers
-15282,Sliding Two Fingers Right
-15374,Zooming Out With Full Hand
-15440,Sliding Two Fingers Down
-15450,Swiping Left
-15543,Swiping Right
-15599,Turning Hand Counterclockwise
-15658,Swiping Down
-15715,Zooming Out With Two Fingers
-15924,Swiping Right
-15957,Sliding Two Fingers Up
-16043,Swiping Right
-16153,Doing other things
-16197,Swiping Down
-16198,Swiping Right
-16214,Shaking Hand
-16243,Swiping Up
-16285,No gesture
-16318,Pushing Hand Away
-16400,Swiping Left
-16405,Swiping Up
-16437,Rolling Hand Backward
-16462,No gesture
-16547,Pushing Hand Away
-16644,Drumming Fingers
-16701,Swiping Up
-16755,Swiping Down
-16776,Pushing Hand Away
-16820,Zooming In With Two Fingers
-16830,Swiping Right
-16843,Doing other things
-16853,Shaking Hand
-16879,Stop Sign
-17009,Turning Hand Counterclockwise
-17075,Pushing Two Fingers Away
-17095,Swiping Down
-17154,Rolling Hand Backward
-17176,Doing other things
-17206,Sliding Two Fingers Left
-17218,Sliding Two Fingers Right
-17420,Pulling Hand In
-17487,Zooming In With Full Hand
-17518,Pushing Two Fingers Away
-17595,Zooming In With Full Hand
-17608,Rolling Hand Forward
-17653,Sliding Two Fingers Up
-17841,Stop Sign
-18049,Thumb Down
-18089,Sliding Two Fingers Right
-18120,Zooming In With Full Hand
-18186,Pushing Hand Away
-18217,Sliding Two Fingers Left
-18266,Swiping Up
-18321,Doing other things
-18379,Thumb Down
-18453,Sliding Two Fingers Down
-18557,Pushing Two Fingers Away
-18578,Rolling Hand Backward
-18581,Sliding Two Fingers Right
-18683,Turning Hand Clockwise
-18693,Rolling Hand Forward
-18800,Swiping Right
-18870,Doing other things
-18930,Zooming Out With Two Fingers
-18975,Shaking Hand
-19091,Doing other things
-19106,Swiping Up
-19254,Drumming Fingers
-19262,Doing other things
-19355,Swiping Up
-19368,Pushing Two Fingers Away
-19392,Zooming Out With Full Hand
-19398,Zooming In With Two Fingers
-19420,Pulling Two Fingers In
-19421,Turning Hand Clockwise
-19502,Stop Sign
-19575,Turning Hand Counterclockwise
-19676,Drumming Fingers
-19681,Zooming In With Two Fingers
-19736,Swiping Up
-19812,Shaking Hand
-19902,Swiping Right
-20003,Sliding Two Fingers Up
-20029,Swiping Left
-20094,Sliding Two Fingers Right
-20186,Shaking Hand
-20214,Turning Hand Counterclockwise
-20308,Pushing Two Fingers Away
-20315,Doing other things
-20379,Zooming In With Two Fingers
-20415,Swiping Down
-20421,Pushing Hand Away
-20477,Sliding Two Fingers Right
-20492,Thumb Up
-20500,Thumb Down
-20613,Sliding Two Fingers Left
-20653,Thumb Down
-20741,Zooming Out With Two Fingers
-20868,Doing other things
-20909,Swiping Left
-20935,Sliding Two Fingers Down
-20936,Zooming In With Full Hand
-20948,Zooming Out With Full Hand
-21025,Rolling Hand Forward
-21067,Pulling Hand In
-21115,Swiping Down
-21149,Turning Hand Counterclockwise
-21184,Doing other things
-21355,Doing other things
-21358,Pulling Two Fingers In
-21364,Drumming Fingers
-21379,Pushing Two Fingers Away
-21397,Rolling Hand Backward
-21495,Pushing Two Fingers Away
-21515,Thumb Up
-21560,Pulling Hand In
-21629,Thumb Down
-21670,Zooming In With Full Hand
-21705,Sliding Two Fingers Down
-21708,Swiping Right
-21785,No gesture
-21867,Shaking Hand
-21876,Doing other things
-21989,Turning Hand Counterclockwise
-22057,Drumming Fingers
-22133,Stop Sign
-22144,Swiping Up
-22154,Thumb Up
-22234,Turning Hand Clockwise
-22238,Pushing Hand Away
-22249,Swiping Up
-22297,No gesture
-22334,Zooming In With Full Hand
-22599,Sliding Two Fingers Left
-22721,Thumb Up
-22758,Pulling Two Fingers In
-22799,No gesture
-22844,Zooming In With Full Hand
-22858,Turning Hand Counterclockwise
-22912,Shaking Hand
-22971,Zooming In With Full Hand
-22997,Doing other things
-23138,Turning Hand Counterclockwise
-23237,Thumb Up
-23279,Zooming In With Full Hand
-23302,Zooming In With Two Fingers
-23374,No gesture
-23458,Swiping Down
-23521,Swiping Up
-23619,Swiping Up
-23718,Turning Hand Clockwise
-23781,Rolling Hand Forward
-23989,Doing other things
-23992,Swiping Up
-24013,Sliding Two Fingers Right
-24037,Sliding Two Fingers Left
-24062,Zooming Out With Full Hand
-24136,Thumb Down
-24165,Pulling Hand In
-24177,Doing other things
-24205,Rolling Hand Backward
-24278,Pulling Hand In
-24293,Zooming Out With Two Fingers
-24320,Drumming Fingers
-24444,Doing other things
-24543,Pulling Two Fingers In
-24618,Rolling Hand Forward
-24643,Sliding Two Fingers Left
-24744,Pushing Two Fingers Away
-24928,Pulling Two Fingers In
-25025,Pushing Hand Away
-25086,Turning Hand Counterclockwise
-25107,Sliding Two Fingers Right
-25269,Swiping Down
-25287,Thumb Down
-25311,Pushing Hand Away
-25739,No gesture
-25776,Turning Hand Clockwise
-25920,Thumb Up
-25928,Doing other things
-26061,Zooming In With Full Hand
-26067,Zooming Out With Two Fingers
-26197,Drumming Fingers
-26241,Zooming Out With Two Fingers
-26320,Rolling Hand Forward
-26527,Pushing Hand Away
-26557,Stop Sign
-26592,Pulling Hand In
-26593,Rolling Hand Backward
-26634,Swiping Down
-26793,Pulling Two Fingers In
-26806,Sliding Two Fingers Left
-26814,Doing other things
-26830,Rolling Hand Backward
-26885,Drumming Fingers
-26952,Swiping Up
-26976,Rolling Hand Forward
-26987,Pulling Two Fingers In
-27142,Zooming In With Two Fingers
-27151,Sliding Two Fingers Left
-27163,Turning Hand Clockwise
-27178,Zooming Out With Two Fingers
-27180,Sliding Two Fingers Up
-27208,Pulling Hand In
-27217,Swiping Left
-27224,Pulling Two Fingers In
-27228,Zooming In With Full Hand
-27231,Turning Hand Counterclockwise
-27381,Thumb Up
-27428,Thumb Up
-27487,Pushing Hand Away
-27496,Doing other things
-27704,Rolling Hand Backward
-27777,Swiping Left
-27834,Sliding Two Fingers Right
-27891,Sliding Two Fingers Down
-28000,Sliding Two Fingers Right
-28140,Zooming In With Full Hand
-28303,Rolling Hand Backward
-28373,Pulling Hand In
-28436,Swiping Down
-28511,Swiping Right
-28558,Doing other things
-28592,Swiping Up
-28599,Stop Sign
-28679,Sliding Two Fingers Up
-28696,Zooming Out With Two Fingers
-28710,No gesture
-28717,Thumb Down
-28737,Sliding Two Fingers Right
-28773,Zooming Out With Two Fingers
-28776,Pushing Two Fingers Away
-28799,Stop Sign
-28815,Pushing Two Fingers Away
-28959,Doing other things
-28960,Doing other things
-28967,Turning Hand Counterclockwise
-29131,Pulling Hand In
-29133,Thumb Down
-29148,Thumb Up
-29155,Doing other things
-29240,Stop Sign
-29265,Drumming Fingers
-29311,Pushing Hand Away
-29336,Turning Hand Clockwise
-29358,Pulling Hand In
-29522,Turning Hand Counterclockwise
-29553,Sliding Two Fingers Down
-29635,Swiping Up
-29667,Pulling Two Fingers In
-29728,Pulling Two Fingers In
-29741,Sliding Two Fingers Up
-29765,Pushing Two Fingers Away
-29811,Sliding Two Fingers Up
-29906,Rolling Hand Forward
-29942,Rolling Hand Forward
-29984,Turning Hand Counterclockwise
-30013,Rolling Hand Forward
-30123,Swiping Left
-30124,Sliding Two Fingers Right
-30359,Zooming Out With Full Hand
-30399,Pulling Two Fingers In
-30487,Sliding Two Fingers Right
-30510,Rolling Hand Backward
-30621,Thumb Up
-30643,Rolling Hand Forward
-30652,Pulling Two Fingers In
-30709,Doing other things
-30737,Rolling Hand Forward
-30844,Zooming Out With Two Fingers
-30877,Turning Hand Clockwise
-30936,Thumb Down
-30938,Shaking Hand
-31009,Pushing Two Fingers Away
-31137,Pulling Hand In
-31163,Shaking Hand
-31173,Pulling Two Fingers In
-31203,Pulling Hand In
-31281,Turning Hand Counterclockwise
-31318,Shaking Hand
-31397,Sliding Two Fingers Down
-31435,Doing other things
-31440,No gesture
-31472,Rolling Hand Forward
-31474,Pushing Hand Away
-31504,Swiping Down
-31586,Rolling Hand Forward
-31635,Pulling Two Fingers In
-31685,No gesture
-31728,Doing other things
-31737,Turning Hand Clockwise
-31856,Sliding Two Fingers Up
-31857,Pulling Two Fingers In
-31865,Swiping Left
-31867,Doing other things
-31884,Swiping Down
-31918,No gesture
-31924,Sliding Two Fingers Down
-31926,Shaking Hand
-31950,Turning Hand Counterclockwise
-31974,Doing other things
-32010,Thumb Down
-32056,Zooming Out With Two Fingers
-32287,Shaking Hand
-32344,Swiping Up
-32355,Pushing Two Fingers Away
-32398,Stop Sign
-32497,No gesture
-32504,Swiping Left
-32512,Doing other things
-32537,Doing other things
-32565,Sliding Two Fingers Down
-32566,Zooming Out With Two Fingers
-32670,Doing other things
-32695,Swiping Left
-32707,Doing other things
-32744,Sliding Two Fingers Left
-32789,Sliding Two Fingers Left
-32850,Turning Hand Clockwise
-32897,Zooming Out With Two Fingers
-32979,Shaking Hand
-33013,Rolling Hand Forward
-33062,No gesture
-33153,Pushing Hand Away
-33197,Sliding Two Fingers Up
-33209,Shaking Hand
-33213,Sliding Two Fingers Right
-33215,Sliding Two Fingers Left
-33271,Sliding Two Fingers Left
-33314,Sliding Two Fingers Left
-33319,No gesture
-33370,Pulling Two Fingers In
-33474,Pulling Two Fingers In
-33485,Swiping Up
-33544,Zooming In With Two Fingers
-33614,Stop Sign
-33747,Sliding Two Fingers Right
-33824,Sliding Two Fingers Left
-33890,Swiping Left
-33935,Sliding Two Fingers Down
-33978,Zooming In With Two Fingers
-34000,Swiping Left
-34007,Pulling Hand In
-34061,Zooming Out With Full Hand
-34070,Pulling Hand In
-34077,Sliding Two Fingers Down
-34128,Pushing Two Fingers Away
-34150,Swiping Left
-34248,Pushing Hand Away
-34249,Rolling Hand Forward
-34277,Sliding Two Fingers Up
-34281,Pulling Two Fingers In
-34357,Drumming Fingers
-34389,Drumming Fingers
-34402,Stop Sign
-34411,Shaking Hand
-34442,Stop Sign
-34464,Doing other things
-34564,Rolling Hand Forward
-34568,Pushing Two Fingers Away
-34576,Shaking Hand
-34595,Sliding Two Fingers Left
-34620,Sliding Two Fingers Left
-34695,Sliding Two Fingers Down
-34707,Pushing Hand Away
-34757,Thumb Down
-34817,Sliding Two Fingers Up
-34959,Stop Sign
-35219,Swiping Down
-35379,Pushing Two Fingers Away
-35482,Swiping Right
-35580,Doing other things
-35590,Zooming In With Two Fingers
-35651,Sliding Two Fingers Down
-35693,Zooming Out With Full Hand
-35708,Drumming Fingers
-35730,Zooming In With Two Fingers
-35738,Pulling Hand In
-35822,Sliding Two Fingers Up
-35847,Swiping Right
-35900,Sliding Two Fingers Up
-35932,Doing other things
-35936,Turning Hand Counterclockwise
-36057,Drumming Fingers
-36060,Sliding Two Fingers Right
-36109,Sliding Two Fingers Right
-36132,Swiping Right
-36145,Rolling Hand Forward
-36154,Drumming Fingers
-36195,Pushing Two Fingers Away
-36198,Pulling Hand In
-36418,Swiping Up
-36426,Thumb Up
-36524,Pushing Two Fingers Away
-36528,Sliding Two Fingers Left
-36535,Turning Hand Clockwise
-36780,Thumb Down
-36801,Pushing Hand Away
-36887,Swiping Right
-36942,Shaking Hand
-36967,Turning Hand Clockwise
-37005,Doing other things
-37101,Stop Sign
-37108,Stop Sign
-37145,Zooming In With Two Fingers
-37186,Doing other things
-37286,Swiping Up
-37367,Thumb Down
-37411,Sliding Two Fingers Left
-37438,Swiping Up
-37484,Sliding Two Fingers Down
-37493,Pushing Two Fingers Away
-37520,Turning Hand Clockwise
-37673,Doing other things
-37694,Rolling Hand Backward
-37742,Zooming Out With Two Fingers
-37814,Sliding Two Fingers Down
-38041,Sliding Two Fingers Right
-38140,Pushing Hand Away
-38352,Swiping Down
-38411,Rolling Hand Forward
-38545,Zooming In With Full Hand
-38721,Pushing Two Fingers Away
-38827,Rolling Hand Forward
-38840,Pushing Two Fingers Away
-38894,Sliding Two Fingers Down
-38899,Sliding Two Fingers Up
-38900,Thumb Up
-39008,No gesture
-39076,Shaking Hand
-39083,Swiping Left
-39190,Swiping Right
-39247,Doing other things
-39285,Pushing Hand Away
-39392,Swiping Up
-39397,Swiping Up
-39407,No gesture
-39411,Doing other things
-39479,Thumb Down
-39571,Thumb Down
-39616,Swiping Right
-39625,Pushing Hand Away
-39642,Zooming Out With Full Hand
-39644,No gesture
-39677,No gesture
-39690,Doing other things
-39745,Thumb Down
-39795,Pulling Two Fingers In
-39842,Thumb Down
-39853,Swiping Up
-39857,Zooming In With Two Fingers
-39939,Thumb Down
-40003,Sliding Two Fingers Down
-40091,Swiping Down
-40112,Zooming In With Full Hand
-40212,Sliding Two Fingers Left
-40403,Pushing Hand Away
-40443,Shaking Hand
-40467,Drumming Fingers
-40480,Shaking Hand
-40512,Swiping Down
-40518,Pulling Hand In
-40530,Sliding Two Fingers Left
-40599,Swiping Right
-40619,Sliding Two Fingers Down
-40716,Sliding Two Fingers Left
-40725,Doing other things
-40852,Sliding Two Fingers Down
-40888,Sliding Two Fingers Right
-40986,Sliding Two Fingers Left
-41060,Turning Hand Counterclockwise
-41085,Doing other things
-41133,Doing other things
-41197,Sliding Two Fingers Up
-41221,No gesture
-41639,Doing other things
-41649,Doing other things
-41693,Doing other things
-41759,Rolling Hand Backward
-41765,No gesture
-41786,Thumb Up
-41900,Zooming In With Two Fingers
-41913,Zooming In With Full Hand
-41916,Pushing Hand Away
-41982,Pulling Two Fingers In
-42065,Pulling Hand In
-42300,Rolling Hand Forward
-42371,Doing other things
-42443,Swiping Up
-42474,Sliding Two Fingers Left
-42513,Sliding Two Fingers Up
-42782,Sliding Two Fingers Down
-42849,Zooming Out With Full Hand
-42923,Doing other things
-42954,Doing other things
-42969,Rolling Hand Backward
-42982,Thumb Up
-43066,Stop Sign
-43088,Zooming In With Two Fingers
-43090,Rolling Hand Forward
-43169,Sliding Two Fingers Up
-43331,Stop Sign
-43392,Sliding Two Fingers Down
-43467,Sliding Two Fingers Left
-43501,Stop Sign
-43528,Drumming Fingers
-43559,Zooming Out With Two Fingers
-43573,Sliding Two Fingers Up
-43579,Pulling Two Fingers In
-43728,Shaking Hand
-43747,Sliding Two Fingers Up
-43806,Thumb Down
-43841,Swiping Down
-43866,Pushing Hand Away
-43898,Turning Hand Clockwise
-43989,Rolling Hand Forward
-43994,Thumb Down
-44012,Sliding Two Fingers Left
-44079,Zooming Out With Two Fingers
-44118,Drumming Fingers
-44221,Stop Sign
-44261,Sliding Two Fingers Down
-44282,Thumb Up
-44390,Stop Sign
-44496,Shaking Hand
-44531,Rolling Hand Forward
-44607,Sliding Two Fingers Left
-44862,Pushing Two Fingers Away
-44909,Swiping Down
-44944,Sliding Two Fingers Right
-44951,Pushing Hand Away
-44952,Sliding Two Fingers Left
-44992,Swiping Left
-45031,Turning Hand Counterclockwise
-45146,Zooming Out With Full Hand
-45167,Sliding Two Fingers Up
-45222,Rolling Hand Backward
-45534,Stop Sign
-45620,Shaking Hand
-45625,Swiping Left
-45659,Turning Hand Clockwise
-45722,Pushing Hand Away
-45986,Sliding Two Fingers Up
-45996,Thumb Down
-46037,Sliding Two Fingers Right
-46119,Swiping Down
-46123,Doing other things
-46131,Thumb Down
-46194,Doing other things
-46197,Doing other things
-46210,Doing other things
-46221,Sliding Two Fingers Up
-46404,Swiping Right
-46406,Sliding Two Fingers Left
-46477,Zooming In With Full Hand
-46537,Sliding Two Fingers Up
-46543,Turning Hand Clockwise
-46726,Zooming Out With Two Fingers
-46739,Thumb Up
-46772,Drumming Fingers
-46845,No gesture
-46908,Doing other things
-46949,No gesture
-46963,Pushing Two Fingers Away
-47036,Pushing Hand Away
-47069,Sliding Two Fingers Down
-47077,Doing other things
-47096,Sliding Two Fingers Down
-47108,Rolling Hand Forward
-47144,Sliding Two Fingers Right
-47283,No gesture
-47331,Pushing Two Fingers Away
-47372,Pulling Two Fingers In
-47388,Swiping Right
-47421,Zooming In With Full Hand
-47507,Turning Hand Clockwise
-47551,Doing other things
-47569,Pulling Hand In
-47590,Thumb Down
-47709,Turning Hand Counterclockwise
-47719,Swiping Right
-47750,Zooming In With Two Fingers
-47769,Zooming Out With Two Fingers
-47826,Pushing Two Fingers Away
-47973,Doing other things
-48005,Zooming Out With Two Fingers
-48131,Zooming In With Two Fingers
-48171,Pulling Two Fingers In
-48257,Swiping Left
-48284,Pushing Hand Away
-48300,Doing other things
-48397,Turning Hand Clockwise
-48411,Pulling Hand In
-48470,Thumb Down
-48475,Swiping Left
-48522,Zooming In With Two Fingers
-48546,Swiping Down
-48610,Sliding Two Fingers Right
-48657,Pulling Two Fingers In
-48660,Pulling Two Fingers In
-48669,Thumb Down
-48721,Pushing Two Fingers Away
-48824,Stop Sign
-48892,Swiping Right
-49145,Thumb Down
-49175,Rolling Hand Forward
-49304,Thumb Up
-49411,Zooming In With Full Hand
-49416,Pulling Hand In
-49466,Rolling Hand Backward
-49570,Doing other things
-49574,No gesture
-49619,Drumming Fingers
-49636,Pushing Hand Away
-49646,Sliding Two Fingers Right
-49718,Thumb Up
-49729,Sliding Two Fingers Up
-49897,Doing other things
-49933,Doing other things
-49958,Zooming In With Full Hand
-49978,Swiping Up
-49987,Thumb Up
-50180,Swiping Right
-50187,Pushing Two Fingers Away
-50226,Shaking Hand
-50293,Zooming In With Full Hand
-50442,Sliding Two Fingers Up
-50492,Thumb Down
-50602,Sliding Two Fingers Right
-50673,Sliding Two Fingers Down
-50711,Zooming In With Two Fingers
-50725,Turning Hand Counterclockwise
-50786,Pulling Two Fingers In
-50790,Pushing Two Fingers Away
-50793,Zooming Out With Two Fingers
-50904,Pulling Hand In
-50978,Thumb Up
-50998,Pushing Two Fingers Away
-51227,Swiping Up
-51232,Doing other things
-51239,No gesture
-51248,Pushing Two Fingers Away
-51272,Pulling Two Fingers In
-51290,Sliding Two Fingers Left
-51349,Stop Sign
-51361,Doing other things
-51415,Thumb Down
-51433,Rolling Hand Backward
-51460,Stop Sign
-51462,Zooming Out With Full Hand
-51546,Doing other things
-51551,Swiping Down
-51569,Swiping Up
-51608,Doing other things
-51685,Zooming In With Two Fingers
-51706,No gesture
-51753,Drumming Fingers
-51807,No gesture
-51836,Pushing Two Fingers Away
-51881,Pushing Two Fingers Away
-51968,Zooming In With Full Hand
-52018,Sliding Two Fingers Down
-52055,Rolling Hand Forward
-52076,Shaking Hand
-52135,Turning Hand Counterclockwise
-52256,Sliding Two Fingers Down
-52286,Pulling Two Fingers In
-52372,Pushing Hand Away
-52387,Thumb Up
-52417,No gesture
-52587,Doing other things
-52598,Sliding Two Fingers Left
-52656,Pushing Two Fingers Away
-52711,Pulling Hand In
-52743,Pushing Two Fingers Away
-52752,Doing other things
-52793,Swiping Down
-52801,Sliding Two Fingers Right
-52814,Thumb Up
-52958,Doing other things
-52960,Sliding Two Fingers Down
-52966,Rolling Hand Backward
-53128,Thumb Down
-53134,Pushing Hand Away
-53178,Doing other things
-53378,Pushing Hand Away
-53442,Zooming In With Two Fingers
-53493,Rolling Hand Backward
-53639,No gesture
-53646,Swiping Right
-53671,Sliding Two Fingers Up
-53717,Zooming Out With Two Fingers
-53876,Zooming In With Full Hand
-53886,Pushing Two Fingers Away
-53910,Swiping Left
-53912,Thumb Down
-54005,Pushing Two Fingers Away
-54250,Sliding Two Fingers Right
-54448,Thumb Down
-54458,Swiping Up
-54498,Swiping Left
-54522,Rolling Hand Backward
-54647,Sliding Two Fingers Up
-54673,Doing other things
-54691,Shaking Hand
-54779,Stop Sign
-54816,Sliding Two Fingers Left
-54827,Drumming Fingers
-54891,Rolling Hand Forward
-55069,Sliding Two Fingers Down
-55078,Thumb Down
-55089,Swiping Left
-55161,Turning Hand Counterclockwise
-55205,Drumming Fingers
-55245,Turning Hand Counterclockwise
-55284,Pulling Two Fingers In
-55292,Pulling Two Fingers In
-55307,Doing other things
-55331,Zooming Out With Full Hand
-55356,Zooming Out With Two Fingers
-55410,Sliding Two Fingers Up
-55468,Pushing Two Fingers Away
-55498,Stop Sign
-55512,Pulling Hand In
-55515,Doing other things
-55564,Pushing Hand Away
-55565,Swiping Right
-55686,Sliding Two Fingers Up
-55774,Zooming In With Two Fingers
-55779,Thumb Down
-55946,Zooming In With Two Fingers
-56039,Doing other things
-56154,Swiping Right
-56177,Pushing Hand Away
-56239,Zooming In With Full Hand
-56272,Rolling Hand Backward
-56307,Zooming In With Full Hand
-56331,Doing other things
-56420,Pushing Hand Away
-56571,Thumb Up
-56580,Sliding Two Fingers Down
-56595,Doing other things
-56680,Shaking Hand
-56760,Sliding Two Fingers Up
-56768,Turning Hand Counterclockwise
-56789,Thumb Up
-56840,Zooming In With Two Fingers
-56859,Pulling Hand In
-56912,Sliding Two Fingers Down
-56975,Zooming In With Full Hand
-57014,Pulling Hand In
-57094,Sliding Two Fingers Up
-57156,Pulling Two Fingers In
-57409,Zooming Out With Full Hand
-57500,Swiping Down
-57559,Turning Hand Counterclockwise
-57599,Pulling Hand In
-57663,Swiping Right
-57670,Doing other things
-57690,Sliding Two Fingers Right
-57735,Sliding Two Fingers Right
-57846,Swiping Up
-57848,Rolling Hand Backward
-57897,Rolling Hand Backward
-57923,Rolling Hand Backward
-58027,Swiping Left
-58036,Shaking Hand
-58064,Swiping Right
-58125,Sliding Two Fingers Up
-58142,Stop Sign
-58338,Doing other things
-58361,Thumb Up
-58554,Thumb Down
-58578,No gesture
-58681,Thumb Up
-58736,Doing other things
-58897,Sliding Two Fingers Down
-58918,Zooming Out With Full Hand
-58980,No gesture
-58984,Turning Hand Counterclockwise
-59003,Swiping Right
-59024,Sliding Two Fingers Up
-59157,Swiping Down
-59163,Sliding Two Fingers Right
-59168,Swiping Right
-59186,Shaking Hand
-59285,Pulling Two Fingers In
-59311,Pushing Two Fingers Away
-59357,Pushing Two Fingers Away
-59470,Turning Hand Counterclockwise
-59629,Swiping Left
-59830,Sliding Two Fingers Down
-59890,Pulling Two Fingers In
-59891,Pulling Two Fingers In
-59995,Turning Hand Clockwise
-60002,Doing other things
-60025,Pulling Hand In
-60056,Zooming In With Full Hand
-60087,Sliding Two Fingers Up
-60109,Rolling Hand Backward
-60263,No gesture
-60329,Turning Hand Clockwise
-60412,Zooming In With Two Fingers
-60450,Sliding Two Fingers Up
-60543,Thumb Up
-60568,Doing other things
-60601,Pushing Hand Away
-60662,Zooming In With Full Hand
-60686,Sliding Two Fingers Left
-60723,Turning Hand Clockwise
-60806,Turning Hand Clockwise
-60870,Zooming Out With Two Fingers
-60978,Sliding Two Fingers Left
-61026,Swiping Up
-61086,Swiping Down
-61118,Pulling Two Fingers In
-61120,Sliding Two Fingers Left
-61148,Rolling Hand Forward
-61172,Sliding Two Fingers Down
-61261,Zooming In With Full Hand
-61312,Pushing Hand Away
-61529,Pulling Hand In
-61625,Shaking Hand
-61644,No gesture
-61700,Sliding Two Fingers Right
-61753,Thumb Down
-61758,Sliding Two Fingers Down
-61799,Shaking Hand
-61872,Doing other things
-61928,Swiping Down
-62002,Zooming In With Two Fingers
-62034,Doing other things
-62050,Shaking Hand
-62089,Sliding Two Fingers Up
-62298,Rolling Hand Backward
-62299,Swiping Left
-62593,Doing other things
-62628,Zooming Out With Two Fingers
-62641,Sliding Two Fingers Down
-62688,Stop Sign
-62786,Thumb Down
-62799,Swiping Left
-62814,Rolling Hand Backward
-62835,Thumb Up
-63005,Swiping Left
-63024,Zooming Out With Full Hand
-63025,Doing other things
-63035,Pulling Two Fingers In
-63185,Doing other things
-63236,Doing other things
-63288,Drumming Fingers
-63291,Pushing Two Fingers Away
-63298,Pushing Hand Away
-63303,Rolling Hand Forward
-63344,Zooming In With Two Fingers
-63492,Pulling Two Fingers In
-63574,Zooming Out With Two Fingers
-63623,Zooming In With Full Hand
-63690,Zooming Out With Two Fingers
-63696,Sliding Two Fingers Down
-63757,Rolling Hand Forward
-63942,Doing other things
-64260,Zooming In With Two Fingers
-64280,Doing other things
-64310,Zooming Out With Full Hand
-64412,Rolling Hand Forward
-64433,Turning Hand Clockwise
-64437,Pushing Hand Away
-64570,Swiping Right
-64594,Sliding Two Fingers Right
-64629,Sliding Two Fingers Right
-64643,Thumb Up
-64708,Zooming Out With Full Hand
-64723,Drumming Fingers
-64918,Rolling Hand Backward
-65050,Zooming Out With Full Hand
-65136,Pushing Hand Away
-65187,Rolling Hand Forward
-65214,Sliding Two Fingers Down
-65335,Thumb Down
-65410,Sliding Two Fingers Down
-65546,Zooming In With Two Fingers
-65572,Shaking Hand
-65702,Turning Hand Counterclockwise
-65724,Thumb Down
-65833,Sliding Two Fingers Right
-65861,Turning Hand Clockwise
-65936,Rolling Hand Backward
-66066,Rolling Hand Backward
-66179,Pushing Hand Away
-66299,Rolling Hand Backward
-66318,Shaking Hand
-66324,Zooming In With Two Fingers
-66383,No gesture
-66441,Swiping Down
-66526,Turning Hand Clockwise
-66571,Stop Sign
-66689,Swiping Down
-66804,Drumming Fingers
-66844,Sliding Two Fingers Down
-66850,Zooming In With Two Fingers
-66902,Doing other things
-66934,Zooming In With Two Fingers
-66976,Sliding Two Fingers Right
-66985,Shaking Hand
-67014,Rolling Hand Backward
-67086,Zooming In With Two Fingers
-67106,Doing other things
-67109,Doing other things
-67126,Thumb Down
-67200,Pushing Hand Away
-67219,Doing other things
-67306,Drumming Fingers
-67383,Sliding Two Fingers Up
-67549,Zooming In With Full Hand
-67589,Rolling Hand Backward
-67638,Thumb Up
-67714,Swiping Up
-67793,Stop Sign
-67818,Turning Hand Counterclockwise
-67969,Doing other things
-68113,Stop Sign
-68169,Zooming In With Two Fingers
-68238,Thumb Up
-68259,Sliding Two Fingers Right
-68295,Rolling Hand Forward
-68318,Sliding Two Fingers Up
-68319,Pushing Hand Away
-68328,Stop Sign
-68372,Zooming Out With Two Fingers
-68427,Zooming In With Two Fingers
-68473,Pulling Hand In
-68490,Shaking Hand
-68493,Swiping Down
-68573,Sliding Two Fingers Up
-68652,Sliding Two Fingers Left
-68707,Doing other things
-68739,Pushing Two Fingers Away
-68801,Rolling Hand Backward
-68837,Drumming Fingers
-68935,Stop Sign
-68973,Pulling Hand In
-68992,Drumming Fingers
-69059,Stop Sign
-69079,Pushing Hand Away
-69187,Thumb Down
-69238,Thumb Down
-69369,Thumb Up
-69493,Sliding Two Fingers Down
-69533,Drumming Fingers
-69577,Stop Sign
-69584,Sliding Two Fingers Down
-69692,Sliding Two Fingers Up
-69888,Zooming Out With Full Hand
-69917,Zooming Out With Two Fingers
-69973,Turning Hand Clockwise
-69990,Turning Hand Clockwise
-70078,Thumb Up
-70106,Rolling Hand Backward
-70150,Sliding Two Fingers Left
-70151,Swiping Down
-70173,Shaking Hand
-70202,Shaking Hand
-70348,Pulling Two Fingers In
-70515,Zooming Out With Two Fingers
-70609,Swiping Left
-70636,Zooming In With Two Fingers
-70668,Zooming In With Full Hand
-70762,Doing other things
-70769,Shaking Hand
-70836,Pushing Two Fingers Away
-70966,Swiping Up
-71006,Thumb Up
-71032,Sliding Two Fingers Left
-71033,Zooming In With Two Fingers
-71051,Swiping Right
-71065,Turning Hand Clockwise
-71246,Swiping Up
-71247,Pulling Two Fingers In
-71309,Swiping Up
-71329,Shaking Hand
-71340,Turning Hand Counterclockwise
-71357,Zooming In With Full Hand
-71397,Swiping Down
-71441,Swiping Down
-71499,Swiping Down
-71509,Swiping Down
-71529,Pulling Hand In
-71537,Sliding Two Fingers Up
-71562,Sliding Two Fingers Down
-71796,Drumming Fingers
-71811,Zooming Out With Two Fingers
-72026,Turning Hand Clockwise
-72131,Doing other things
-72155,Zooming Out With Two Fingers
-72188,Stop Sign
-72192,Sliding Two Fingers Left
-72374,Sliding Two Fingers Down
-72397,Zooming In With Full Hand
-72456,Doing other things
-72496,Thumb Up
-72503,Doing other things
-72564,Drumming Fingers
-72653,Drumming Fingers
-72661,Zooming Out With Full Hand
-72676,Swiping Left
-72721,Sliding Two Fingers Up
-72805,Rolling Hand Forward
-72891,Swiping Down
-72985,Stop Sign
-73001,Pushing Hand Away
-73048,Sliding Two Fingers Up
-73070,Sliding Two Fingers Right
-73378,Doing other things
-73385,Swiping Up
-73401,Turning Hand Counterclockwise
-73418,No gesture
-73631,Zooming Out With Two Fingers
-73756,Sliding Two Fingers Left
-73766,Pulling Hand In
-73768,Zooming In With Full Hand
-73786,Rolling Hand Backward
-73821,Pulling Two Fingers In
-73896,Thumb Down
-73898,Zooming In With Two Fingers
-73963,Zooming In With Full Hand
-74131,Zooming Out With Two Fingers
-74155,Sliding Two Fingers Up
-74252,Thumb Up
-74372,Stop Sign
-74559,Turning Hand Counterclockwise
-74590,Swiping Left
-74700,Doing other things
-74774,Pushing Two Fingers Away
-74786,Thumb Down
-74861,Shaking Hand
-74881,Shaking Hand
-74946,Turning Hand Counterclockwise
-74977,Swiping Down
-75009,Pushing Two Fingers Away
-75013,Stop Sign
-75042,Stop Sign
-75043,Rolling Hand Forward
-75044,Zooming Out With Full Hand
-75046,Stop Sign
-75129,Zooming In With Full Hand
-75166,Zooming Out With Full Hand
-75194,Rolling Hand Forward
-75273,Turning Hand Counterclockwise
-75318,Doing other things
-75410,Turning Hand Clockwise
-75425,Sliding Two Fingers Right
-75566,Zooming In With Full Hand
-75643,Swiping Down
-75736,Zooming In With Full Hand
-75866,Thumb Up
-75898,Turning Hand Counterclockwise
-75940,Sliding Two Fingers Right
-75979,Swiping Right
-76034,Turning Hand Clockwise
-76130,Sliding Two Fingers Up
-76163,Zooming Out With Full Hand
-76235,Rolling Hand Forward
-76266,Zooming Out With Full Hand
-76345,Stop Sign
-76396,Sliding Two Fingers Left
-76468,Swiping Left
-76489,Zooming Out With Two Fingers
-76663,Pushing Hand Away
-76711,Doing other things
-76716,Thumb Up
-76761,Swiping Left
-76779,Sliding Two Fingers Down
-76945,Thumb Up
-76975,Rolling Hand Forward
-77098,Doing other things
-77118,Zooming Out With Full Hand
-77140,Drumming Fingers
-77158,Pushing Two Fingers Away
-77170,Pushing Hand Away
-77302,Sliding Two Fingers Left
-77381,Turning Hand Clockwise
-77425,Rolling Hand Backward
-77433,Turning Hand Clockwise
-77602,Sliding Two Fingers Up
-77692,Pushing Hand Away
-77716,Stop Sign
-77748,Pulling Hand In
-77761,Turning Hand Clockwise
-77940,Drumming Fingers
-77947,Sliding Two Fingers Up
-77982,Shaking Hand
-78161,Zooming In With Two Fingers
-78201,Doing other things
-78369,Zooming In With Full Hand
-78402,Pushing Hand Away
-78480,Turning Hand Clockwise
-78567,Zooming In With Two Fingers
-78602,Pushing Two Fingers Away
-78606,Doing other things
-78610,Turning Hand Counterclockwise
-78731,Pushing Hand Away
-78763,Sliding Two Fingers Up
-78837,Zooming In With Full Hand
-78886,Drumming Fingers
-78893,Swiping Left
-78913,Doing other things
-79060,Drumming Fingers
-79081,Thumb Down
-79092,Rolling Hand Forward
-79115,Zooming Out With Full Hand
-79157,Swiping Up
-79169,Thumb Up
-79208,Sliding Two Fingers Down
-79237,Sliding Two Fingers Down
-79238,Rolling Hand Forward
-79320,Rolling Hand Backward
-79322,Rolling Hand Forward
-79334,Doing other things
-79344,Zooming In With Two Fingers
-79509,Sliding Two Fingers Left
-79580,No gesture
-79628,Zooming In With Full Hand
-79640,Thumb Up
-79664,Sliding Two Fingers Down
-79730,Pulling Hand In
-79732,Swiping Right
-79772,Swiping Right
-79791,Thumb Down
-79816,Swiping Down
-79823,Zooming Out With Full Hand
-79861,Zooming Out With Full Hand
-79880,No gesture
-79889,Swiping Down
-79998,Sliding Two Fingers Down
-80086,Turning Hand Counterclockwise
-80142,No gesture
-80183,Zooming Out With Two Fingers
-80239,Swiping Right
-80242,Drumming Fingers
-80249,Swiping Down
-80267,Pushing Hand Away
-80340,Sliding Two Fingers Right
-80347,Thumb Down
-80384,Swiping Right
-80413,Pulling Two Fingers In
-80454,Sliding Two Fingers Left
-80619,Zooming In With Full Hand
-80656,No gesture
-80673,Zooming Out With Two Fingers
-80691,Thumb Down
-80734,Stop Sign
-80771,Doing other things
-80888,Sliding Two Fingers Right
-80941,Doing other things
-80960,Thumb Down
-80974,Thumb Down
-81066,Doing other things
-81103,Zooming Out With Full Hand
-81136,Pulling Two Fingers In
-81163,Stop Sign
-81244,Pushing Hand Away
-81246,Zooming In With Full Hand
-81258,Swiping Down
-81350,Pushing Hand Away
-81373,Sliding Two Fingers Down
-81415,Thumb Up
-81510,Sliding Two Fingers Left
-81529,Drumming Fingers
-81554,Rolling Hand Forward
-81593,Pushing Hand Away
-81609,Zooming In With Two Fingers
-81684,Doing other things
-81705,Swiping Left
-81889,Doing other things
-81919,Pulling Hand In
-82004,Sliding Two Fingers Down
-82014,Doing other things
-82044,Doing other things
-82133,Swiping Left
-82245,Shaking Hand
-82246,Pulling Two Fingers In
-82269,Swiping Down
-82290,Doing other things
-82491,Rolling Hand Forward
-82496,Zooming In With Two Fingers
-82540,Stop Sign
-82561,Zooming In With Two Fingers
-82628,Rolling Hand Forward
-82669,Rolling Hand Forward
-82685,Turning Hand Clockwise
-82719,Zooming In With Full Hand
-82731,Pulling Two Fingers In
-82829,Turning Hand Clockwise
-82835,Swiping Down
-82873,Swiping Up
-82930,Zooming Out With Full Hand
-83103,Swiping Up
-83175,Sliding Two Fingers Up
-83213,Pulling Hand In
-83229,Swiping Up
-83248,Thumb Up
-83301,Zooming In With Two Fingers
-83304,Zooming In With Full Hand
-83327,Stop Sign
-83384,Swiping Left
-83456,Sliding Two Fingers Right
-83464,Zooming In With Two Fingers
-83474,Zooming In With Two Fingers
-83483,Sliding Two Fingers Right
-83541,Sliding Two Fingers Up
-83581,Doing other things
-83718,Sliding Two Fingers Up
-83746,Shaking Hand
-83765,Sliding Two Fingers Down
-83771,Swiping Down
-83804,Rolling Hand Forward
-83806,Swiping Down
-84246,Shaking Hand
-84266,Pulling Two Fingers In
-84315,Shaking Hand
-84317,Rolling Hand Forward
-84410,Zooming In With Two Fingers
-84419,Swiping Up
-84435,Doing other things
-84457,Swiping Right
-84509,Pulling Hand In
-84521,Swiping Down
-84574,Thumb Up
-84624,Shaking Hand
-84629,Sliding Two Fingers Down
-84727,Swiping Right
-84752,Rolling Hand Backward
-84945,Sliding Two Fingers Left
-84985,Zooming Out With Full Hand
-85019,Sliding Two Fingers Left
-85129,Shaking Hand
-85135,Sliding Two Fingers Down
-85137,Drumming Fingers
-85148,Sliding Two Fingers Left
-85198,Sliding Two Fingers Left
-85234,Zooming Out With Full Hand
-85238,Turning Hand Clockwise
-85248,Swiping Down
-85282,Drumming Fingers
-85285,Doing other things
-85314,Zooming Out With Two Fingers
-85339,Zooming In With Full Hand
-85369,Turning Hand Counterclockwise
-85380,Pulling Two Fingers In
-85444,Sliding Two Fingers Right
-85458,Zooming In With Full Hand
-85466,Zooming In With Full Hand
-85509,Zooming Out With Full Hand
-85522,Sliding Two Fingers Up
-85556,Doing other things
-85588,Pulling Hand In
-85634,Pushing Hand Away
-85682,Zooming Out With Full Hand
-85710,Zooming Out With Two Fingers
-85711,Rolling Hand Backward
-85759,Pulling Hand In
-85792,Pulling Hand In
-85832,Pushing Two Fingers Away
-85908,Turning Hand Clockwise
-85953,Zooming Out With Two Fingers
-86001,Doing other things
-86032,Sliding Two Fingers Up
-86053,Swiping Up
-86065,Shaking Hand
-86068,Sliding Two Fingers Left
-86147,Swiping Left
-86213,Sliding Two Fingers Up
-86226,Shaking Hand
-86246,Doing other things
-86375,Pushing Two Fingers Away
-86456,Doing other things
-86459,No gesture
-86525,Turning Hand Counterclockwise
-86538,Swiping Right
-86677,Rolling Hand Backward
-86712,Rolling Hand Backward
-86725,Shaking Hand
-86818,Swiping Left
-86825,Doing other things
-86870,Stop Sign
-87130,Rolling Hand Forward
-87165,Thumb Down
-87243,Swiping Left
-87459,Pushing Hand Away
-87465,Swiping Right
-87578,Zooming Out With Two Fingers
-87603,Doing other things
-87633,Shaking Hand
-87661,Rolling Hand Backward
-87686,Pulling Hand In
-87735,Sliding Two Fingers Left
-87848,Swiping Up
-87879,Swiping Left
-87935,Pulling Hand In
-88052,Zooming Out With Two Fingers
-88054,Doing other things
-88101,Turning Hand Counterclockwise
-88132,Drumming Fingers
-88166,Thumb Down
-88231,Pulling Two Fingers In
-88255,Zooming Out With Full Hand
-88264,Doing other things
-88278,Thumb Down
-88291,Sliding Two Fingers Left
-88339,Swiping Left
-88429,Pulling Hand In
-88458,Sliding Two Fingers Up
-88461,Swiping Up
-88463,Sliding Two Fingers Up
-88506,Drumming Fingers
-88541,Zooming In With Two Fingers
-88630,Swiping Right
-88661,No gesture
-88666,Zooming In With Two Fingers
-88675,Drumming Fingers
-88737,Pushing Hand Away
-88779,Shaking Hand
-88856,Sliding Two Fingers Right
-88906,Shaking Hand
-88964,Turning Hand Clockwise
-88969,Zooming In With Two Fingers
-88970,Doing other things
-88999,Swiping Left
-89004,Turning Hand Counterclockwise
-89010,Swiping Right
-89039,Sliding Two Fingers Down
-89079,Swiping Left
-89106,Swiping Right
-89142,Sliding Two Fingers Right
-89152,Doing other things
-89206,Drumming Fingers
-89212,Thumb Up
-89224,Drumming Fingers
-89297,No gesture
-89361,Stop Sign
-89370,Thumb Down
-89378,Zooming Out With Two Fingers
-89399,Pushing Two Fingers Away
-89472,Pushing Hand Away
-89489,Thumb Down
-89518,Drumming Fingers
-89532,Pulling Hand In
-89563,Zooming In With Full Hand
-89596,Swiping Down
-89694,Zooming Out With Two Fingers
-89706,Zooming In With Full Hand
-89792,Zooming Out With Two Fingers
-89802,Pulling Hand In
-89848,No gesture
-89885,Swiping Down
-89968,Doing other things
-90065,Doing other things
-90090,Swiping Down
-90097,Zooming Out With Two Fingers
-90125,Pulling Two Fingers In
-90172,Pulling Hand In
-90192,Swiping Right
-90297,Thumb Up
-90319,Swiping Up
-90320,Rolling Hand Backward
-90324,Doing other things
-90411,Pulling Two Fingers In
-90437,Rolling Hand Backward
-90683,Thumb Up
-90723,Zooming In With Two Fingers
-90759,Zooming Out With Full Hand
-90762,Pushing Two Fingers Away
-90796,Drumming Fingers
-90819,Zooming In With Full Hand
-90828,Doing other things
-90861,Pushing Two Fingers Away
-90871,Pulling Hand In
-91085,Stop Sign
-91233,Sliding Two Fingers Down
-91284,Rolling Hand Backward
-91318,Zooming Out With Full Hand
-91341,Sliding Two Fingers Down
-91415,Zooming In With Full Hand
-91416,Zooming In With Two Fingers
-91516,No gesture
-91605,Swiping Left
-91646,Rolling Hand Forward
-91693,Pushing Hand Away
-91708,Sliding Two Fingers Up
-91730,Sliding Two Fingers Right
-91751,Doing other things
-91808,Swiping Left
-91810,Drumming Fingers
-91949,Pushing Two Fingers Away
-91987,Zooming Out With Full Hand
-92094,Zooming Out With Two Fingers
-92122,Zooming In With Full Hand
-92125,Doing other things
-92204,Shaking Hand
-92222,Zooming In With Two Fingers
-92277,Pushing Hand Away
-92424,Turning Hand Clockwise
-92476,Zooming Out With Two Fingers
-92748,Turning Hand Clockwise
-92802,Zooming In With Two Fingers
-92831,Stop Sign
-92864,Shaking Hand
-92865,Zooming In With Two Fingers
-92992,Sliding Two Fingers Up
-93191,Zooming In With Two Fingers
-93234,Swiping Left
-93278,Pulling Two Fingers In
-93341,Zooming In With Full Hand
-93351,Rolling Hand Forward
-93362,Thumb Down
-93404,Zooming Out With Full Hand
-93514,Pushing Two Fingers Away
-93547,No gesture
-93671,Sliding Two Fingers Left
-93956,Sliding Two Fingers Right
-93991,Zooming Out With Two Fingers
-94085,Zooming In With Full Hand
-94122,Zooming Out With Two Fingers
-94133,Shaking Hand
-94338,Swiping Up
-94339,Pulling Hand In
-94410,Zooming Out With Two Fingers
-94413,Zooming Out With Two Fingers
-94491,Stop Sign
-94610,Thumb Up
-94652,Turning Hand Clockwise
-94842,Rolling Hand Forward
-94997,Swiping Down
-95050,Stop Sign
-95058,Thumb Up
-95093,Thumb Down
-95174,Shaking Hand
-95179,Thumb Down
-95181,Doing other things
-95219,Doing other things
-95231,Doing other things
-95236,Pushing Hand Away
-95297,Drumming Fingers
-95389,Drumming Fingers
-95462,Thumb Up
-95465,Doing other things
-95469,Doing other things
-95496,Pushing Two Fingers Away
-95506,Sliding Two Fingers Down
-95540,Pushing Two Fingers Away
-95618,Swiping Left
-95669,Swiping Right
-95698,Pulling Hand In
-95728,No gesture
-95808,Drumming Fingers
-95816,Zooming Out With Full Hand
-95892,Stop Sign
-95893,Zooming Out With Full Hand
-95936,Zooming Out With Full Hand
-95941,Zooming Out With Full Hand
-95975,Stop Sign
-96045,Pushing Hand Away
-96048,Drumming Fingers
-96064,Thumb Down
-96070,Pulling Hand In
-96104,Drumming Fingers
-96122,Swiping Up
-96220,Doing other things
-96288,Zooming Out With Full Hand
-96312,Shaking Hand
-96341,Pushing Two Fingers Away
-96365,Pushing Two Fingers Away
-96547,Swiping Right
-96552,Thumb Down
-96641,Turning Hand Counterclockwise
-96710,Turning Hand Clockwise
-96722,Turning Hand Counterclockwise
-96786,Doing other things
-96988,Turning Hand Clockwise
-97004,Stop Sign
-97097,Swiping Left
-97287,Thumb Down
-97385,Pushing Two Fingers Away
-97449,Sliding Two Fingers Up
-97501,Zooming In With Full Hand
-97564,Doing other things
-97612,Doing other things
-97696,Pulling Hand In
-97877,Zooming Out With Full Hand
-97941,Swiping Right
-97970,Thumb Up
-97991,Zooming In With Two Fingers
-98049,Zooming Out With Full Hand
-98073,Sliding Two Fingers Up
-98169,Sliding Two Fingers Left
-98228,Pushing Two Fingers Away
-98308,Stop Sign
-98371,Pulling Two Fingers In
-98394,Rolling Hand Backward
-98410,Doing other things
-98460,Sliding Two Fingers Left
-98530,Thumb Up
-98566,Pulling Two Fingers In
-98622,Sliding Two Fingers Right
-98855,Pushing Two Fingers Away
-98923,Turning Hand Clockwise
-98947,Sliding Two Fingers Up
-99005,Turning Hand Counterclockwise
-99191,Doing other things
-99237,Rolling Hand Forward
-99320,Swiping Right
-99334,Pulling Two Fingers In
-99337,Swiping Down
-99345,Thumb Down
-99430,Doing other things
-99484,Rolling Hand Forward
-99565,Rolling Hand Backward
-99690,Zooming In With Two Fingers
-99702,Zooming Out With Full Hand
-99733,Stop Sign
-99748,Zooming In With Full Hand
-99801,Sliding Two Fingers Right
-99808,Zooming Out With Two Fingers
-99854,Pushing Hand Away
-99877,Zooming In With Full Hand
-99934,Sliding Two Fingers Up
-100048,Swiping Up
-100110,Sliding Two Fingers Down
-100210,Sliding Two Fingers Up
-100310,Drumming Fingers
-100494,Thumb Down
-100509,Rolling Hand Backward
-100700,Drumming Fingers
-100711,Rolling Hand Forward
-100725,Swiping Down
-100741,Sliding Two Fingers Left
-100747,Pushing Two Fingers Away
-100799,Swiping Left
-100865,Shaking Hand
-100867,Sliding Two Fingers Left
-100872,Doing other things
-100935,Stop Sign
-101047,Pulling Hand In
-101137,Swiping Left
-101217,Zooming Out With Full Hand
-101321,Swiping Down
-101341,Rolling Hand Forward
-101348,Swiping Down
-101379,Zooming In With Two Fingers
-101465,Pulling Two Fingers In
-101553,Zooming Out With Full Hand
-101583,Drumming Fingers
-101625,Swiping Right
-101728,Shaking Hand
-101766,Pulling Two Fingers In
-101784,Turning Hand Clockwise
-101828,Swiping Up
-101935,Pulling Two Fingers In
-101949,Doing other things
-102009,Rolling Hand Backward
-102064,Zooming Out With Full Hand
-102076,Sliding Two Fingers Up
-102128,Sliding Two Fingers Left
-102167,Zooming In With Two Fingers
-102223,Pulling Hand In
-102225,Thumb Down
-102275,Doing other things
-102311,No gesture
-102399,Zooming Out With Two Fingers
-102491,Pulling Hand In
-102562,Rolling Hand Forward
-102637,Pushing Hand Away
-102651,Pulling Hand In
-102740,Thumb Up
-102841,Sliding Two Fingers Right
-102866,Sliding Two Fingers Up
-102904,Sliding Two Fingers Up
-102965,Drumming Fingers
-103002,Stop Sign
-103003,Doing other things
-103044,Swiping Up
-103053,No gesture
-103174,Turning Hand Counterclockwise
-103228,Swiping Left
-103235,Sliding Two Fingers Left
-103398,Doing other things
-103409,Stop Sign
-103489,Drumming Fingers
-103578,Swiping Up
-103638,Pushing Hand Away
-103639,Rolling Hand Backward
-103662,Stop Sign
-103693,Swiping Up
-103775,Turning Hand Clockwise
-103825,Sliding Two Fingers Left
-103846,Pushing Hand Away
-104034,Pushing Hand Away
-104081,Zooming In With Two Fingers
-104088,Rolling Hand Backward
-104089,No gesture
-104137,Sliding Two Fingers Up
-104165,Zooming Out With Full Hand
-104197,Sliding Two Fingers Down
-104252,Swiping Right
-104257,Rolling Hand Backward
-104381,Sliding Two Fingers Up
-104419,Rolling Hand Forward
-104421,Swiping Down
-104451,Thumb Up
-104569,Sliding Two Fingers Left
-104627,Zooming Out With Two Fingers
-104739,Stop Sign
-104781,Pushing Two Fingers Away
-104819,Zooming Out With Full Hand
-104908,Sliding Two Fingers Left
-104950,Sliding Two Fingers Up
-104969,Zooming In With Two Fingers
-105038,Stop Sign
-105046,Swiping Down
-105054,Swiping Left
-105077,Zooming Out With Full Hand
-105155,Sliding Two Fingers Right
-105194,Turning Hand Counterclockwise
-105220,Doing other things
-105221,Swiping Left
-105316,Zooming In With Two Fingers
-105372,Pushing Two Fingers Away
-105473,Rolling Hand Forward
-105633,Pulling Hand In
-105704,Pulling Hand In
-105734,Turning Hand Counterclockwise
-105740,Swiping Left
-105829,Pushing Hand Away
-105870,Zooming In With Two Fingers
-105926,Sliding Two Fingers Down
-105962,Sliding Two Fingers Right
-105976,Thumb Up
-105979,Drumming Fingers
-106011,Thumb Down
-106033,Doing other things
-106264,Drumming Fingers
-106290,Zooming Out With Two Fingers
-106304,No gesture
-106382,Swiping Up
-106392,Swiping Right
-106452,Sliding Two Fingers Right
-106481,Sliding Two Fingers Down
-106555,Shaking Hand
-106686,Thumb Down
-106691,Sliding Two Fingers Left
-106817,Sliding Two Fingers Up
-106846,Sliding Two Fingers Right
-106850,Sliding Two Fingers Down
-106887,Stop Sign
-106950,Turning Hand Clockwise
-106957,Sliding Two Fingers Down
-106966,Pulling Two Fingers In
-106974,Thumb Up
-106984,Stop Sign
-107037,Swiping Right
-107046,No gesture
-107047,Turning Hand Clockwise
-107056,Sliding Two Fingers Right
-107076,Swiping Up
-107087,Thumb Up
-107202,Swiping Right
-107352,Zooming In With Two Fingers
-107353,Zooming Out With Full Hand
-107383,Pulling Two Fingers In
-107415,Doing other things
-107511,Pulling Hand In
-107527,No gesture
-107542,Doing other things
-107553,Sliding Two Fingers Right
-107557,Rolling Hand Backward
-107580,Swiping Up
-107630,Swiping Up
-107650,No gesture
-107698,Swiping Up
-107769,Zooming Out With Two Fingers
-107825,Pulling Hand In
-107835,Sliding Two Fingers Down
-107860,Doing other things
-107948,Swiping Down
-108053,Stop Sign
-108063,Doing other things
-108113,Swiping Right
-108132,Doing other things
-108169,Swiping Right
-108190,Sliding Two Fingers Down
-108283,Rolling Hand Forward
-108305,Turning Hand Counterclockwise
-108339,Swiping Right
-108355,Zooming In With Full Hand
-108369,Swiping Left
-108419,Pushing Hand Away
-108576,Rolling Hand Forward
-108583,Pushing Two Fingers Away
-108650,Pushing Hand Away
-108763,Pulling Two Fingers In
-108814,Swiping Left
-108815,Doing other things
-108833,Pulling Hand In
-108914,Thumb Down
-108934,Doing other things
-109016,No gesture
-109083,Zooming Out With Two Fingers
-109122,Swiping Down
-109321,Sliding Two Fingers Left
-109354,Pulling Hand In
-109450,Swiping Left
-109552,Rolling Hand Forward
-109636,Sliding Two Fingers Down
-109650,Doing other things
-109651,Turning Hand Counterclockwise
-109844,Turning Hand Clockwise
-110010,Zooming Out With Full Hand
-110013,Zooming Out With Two Fingers
-110046,Stop Sign
-110081,Sliding Two Fingers Left
-110085,Pushing Hand Away
-110103,Zooming Out With Full Hand
-110315,Doing other things
-110405,Swiping Up
-110426,Sliding Two Fingers Down
-110437,Thumb Down
-110489,Sliding Two Fingers Down
-110568,Thumb Up
-110574,No gesture
-110589,Zooming Out With Two Fingers
-110799,Drumming Fingers
-110877,Rolling Hand Backward
-110908,Swiping Down
-110928,Sliding Two Fingers Down
-111011,Thumb Up
-111068,Zooming Out With Full Hand
-111100,Sliding Two Fingers Right
-111113,Zooming In With Two Fingers
-111276,Zooming Out With Full Hand
-111282,Thumb Down
-111337,Pushing Two Fingers Away
-111398,Thumb Up
-111666,Swiping Up
-111755,Swiping Left
-112092,Pushing Hand Away
-112117,Sliding Two Fingers Right
-112177,Swiping Left
-112218,Pulling Two Fingers In
-112230,Sliding Two Fingers Down
-112359,Shaking Hand
-112394,Drumming Fingers
-112443,Thumb Down
-112549,Sliding Two Fingers Left
-112557,Sliding Two Fingers Left
-112615,Swiping Left
-112629,Shaking Hand
-112695,Thumb Down
-112704,Drumming Fingers
-112753,Doing other things
-112779,Pulling Hand In
-112828,Pulling Hand In
-112877,No gesture
-112954,Pushing Two Fingers Away
-112963,Stop Sign
-112970,Zooming In With Two Fingers
-113040,Swiping Right
-113048,Zooming In With Two Fingers
-113131,Zooming In With Two Fingers
-113204,Zooming Out With Full Hand
-113253,Thumb Up
-113257,Sliding Two Fingers Left
-113358,Swiping Left
-113390,Zooming In With Full Hand
-113471,Doing other things
-113535,Sliding Two Fingers Right
-113559,Zooming In With Full Hand
-113668,Sliding Two Fingers Left
-113679,Stop Sign
-113781,Pushing Two Fingers Away
-113952,No gesture
-113985,Sliding Two Fingers Up
-113993,Rolling Hand Backward
-114157,Rolling Hand Forward
-114253,Swiping Up
-114275,Turning Hand Clockwise
-114354,Swiping Left
-114427,Zooming In With Full Hand
-114488,Pushing Hand Away
-114549,Turning Hand Clockwise
-114570,Turning Hand Clockwise
-114586,No gesture
-114616,Zooming In With Full Hand
-114650,Pulling Two Fingers In
-114666,Zooming In With Two Fingers
-114749,Swiping Right
-114750,Shaking Hand
-114783,Thumb Up
-114834,Swiping Up
-114865,Pulling Hand In
-114932,Turning Hand Counterclockwise
-114974,Zooming In With Full Hand
-115074,Zooming Out With Two Fingers
-115114,Thumb Up
-115178,Sliding Two Fingers Left
-115220,Thumb Up
-115244,Swiping Right
-115304,Sliding Two Fingers Right
-115342,Zooming Out With Full Hand
-115351,Pulling Two Fingers In
-115522,Doing other things
-115705,Pulling Hand In
-115721,Sliding Two Fingers Down
-115724,Zooming Out With Full Hand
-115820,Pulling Hand In
-115951,Rolling Hand Backward
-116055,Sliding Two Fingers Up
-116066,Zooming In With Two Fingers
-116140,No gesture
-116160,Swiping Right
-116258,Thumb Up
-116349,Sliding Two Fingers Down
-116398,Swiping Down
-116464,Rolling Hand Backward
-116558,Zooming In With Two Fingers
-116563,Zooming Out With Two Fingers
-116629,Doing other things
-116659,Thumb Up
-116666,Zooming In With Full Hand
-116702,Rolling Hand Backward
-116717,Rolling Hand Backward
-116803,Pushing Hand Away
-116825,Turning Hand Clockwise
-116833,Swiping Right
-116888,Thumb Down
-116955,Rolling Hand Forward
-116969,Doing other things
-117005,Thumb Down
-117057,Thumb Up
-117072,Shaking Hand
-117099,Shaking Hand
-117297,Turning Hand Counterclockwise
-117314,Swiping Down
-117315,Zooming Out With Two Fingers
-117340,Sliding Two Fingers Up
-117529,Swiping Right
-117717,Sliding Two Fingers Right
-117719,Turning Hand Clockwise
-117829,Pulling Two Fingers In
-117854,Pulling Hand In
-117951,Turning Hand Clockwise
-117952,Sliding Two Fingers Up
-118205,Stop Sign
-118231,Drumming Fingers
-118250,Swiping Down
-118341,Stop Sign
-118411,Rolling Hand Backward
-118468,Swiping Up
-118528,Rolling Hand Backward
-118579,Shaking Hand
-118620,Turning Hand Clockwise
-118775,Zooming Out With Two Fingers
-118779,Turning Hand Clockwise
-118885,Sliding Two Fingers Down
-119055,Drumming Fingers
-119063,Pulling Two Fingers In
-119134,Pulling Hand In
-119135,Drumming Fingers
-119170,Stop Sign
-119267,Swiping Right
-119291,Zooming In With Full Hand
-119297,Turning Hand Clockwise
-119356,Shaking Hand
-119385,Drumming Fingers
-119406,Zooming Out With Two Fingers
-119418,Thumb Up
-119469,Rolling Hand Backward
-119509,Sliding Two Fingers Up
-119571,Drumming Fingers
-119799,Swiping Right
-119825,Thumb Down
-119840,Zooming In With Full Hand
-119882,Thumb Down
-119892,Shaking Hand
-119953,Pushing Hand Away
-120019,Swiping Up
-120055,Rolling Hand Backward
-120066,Doing other things
-120237,Thumb Up
-120399,Rolling Hand Backward
-120408,Doing other things
-120410,Doing other things
-120486,Shaking Hand
-120497,Pushing Two Fingers Away
-120508,No gesture
-120553,Doing other things
-120567,Swiping Right
-120609,Shaking Hand
-120627,Thumb Up
-120665,Zooming Out With Two Fingers
-120673,Drumming Fingers
-120710,No gesture
-120738,Zooming In With Full Hand
-120749,Sliding Two Fingers Right
-120838,Shaking Hand
-120858,Thumb Up
-120864,Rolling Hand Backward
-121084,Doing other things
-121295,Swiping Down
-121324,Zooming Out With Full Hand
-121420,Stop Sign
-121442,Doing other things
-121479,Turning Hand Counterclockwise
-121487,Turning Hand Counterclockwise
-121616,Zooming In With Full Hand
-121630,Swiping Right
-121634,Zooming In With Two Fingers
-121679,Doing other things
-121728,Sliding Two Fingers Down
-121741,Thumb Up
-121817,Rolling Hand Backward
-121858,Swiping Right
-121881,Doing other things
-121969,Zooming Out With Full Hand
-122005,Swiping Up
-122017,Pushing Hand Away
-122039,Drumming Fingers
-122092,Turning Hand Counterclockwise
-122122,Sliding Two Fingers Right
-122128,Turning Hand Clockwise
-122207,Doing other things
-122340,Pulling Two Fingers In
-122345,No gesture
-122348,Pushing Two Fingers Away
-122355,Swiping Left
-122385,Swiping Down
-122397,Swiping Down
-122429,Sliding Two Fingers Up
-122457,Drumming Fingers
-122549,Rolling Hand Backward
-122632,Thumb Up
-122655,Thumb Down
-122888,Turning Hand Counterclockwise
-122896,Swiping Right
-122939,Pushing Two Fingers Away
-123002,Swiping Down
-123050,Thumb Down
-123063,Shaking Hand
-123069,No gesture
-123133,Turning Hand Clockwise
-123151,Thumb Down
-123209,Thumb Down
-123261,Doing other things
-123288,Pushing Hand Away
-123300,Shaking Hand
-123304,Zooming In With Full Hand
-123309,Swiping Down
-123340,Rolling Hand Backward
-123512,Sliding Two Fingers Left
-123536,Drumming Fingers
-123575,Zooming Out With Full Hand
-123622,Pushing Two Fingers Away
-123659,Stop Sign
-123717,Zooming Out With Full Hand
-123737,Thumb Up
-123880,Turning Hand Clockwise
-123891,Rolling Hand Forward
-123974,Rolling Hand Forward
-124019,Sliding Two Fingers Up
-124094,Sliding Two Fingers Left
-124256,Zooming Out With Full Hand
-124283,Drumming Fingers
-124299,Thumb Down
-124364,Pulling Two Fingers In
-124414,Turning Hand Counterclockwise
-124440,Zooming Out With Two Fingers
-124449,Turning Hand Clockwise
-124458,Swiping Left
-124460,Pulling Hand In
-124483,Zooming In With Two Fingers
-124531,Shaking Hand
-124547,Sliding Two Fingers Left
-124706,Doing other things
-124719,Zooming Out With Two Fingers
-124721,Zooming Out With Two Fingers
-124781,Zooming In With Two Fingers
-124796,Pulling Two Fingers In
-124806,Sliding Two Fingers Left
-124848,Zooming Out With Two Fingers
-124972,Thumb Down
-125044,Swiping Left
-125090,Zooming In With Two Fingers
-125107,No gesture
-125246,Pushing Hand Away
-125332,Sliding Two Fingers Left
-125479,Drumming Fingers
-125501,Sliding Two Fingers Right
-125571,Swiping Up
-125594,Rolling Hand Forward
-125662,Rolling Hand Forward
-125672,Zooming Out With Two Fingers
-125759,Rolling Hand Backward
-125803,Sliding Two Fingers Left
-125830,Stop Sign
-125980,Drumming Fingers
-126037,Stop Sign
-126090,Rolling Hand Forward
-126106,Pushing Two Fingers Away
-126132,Shaking Hand
-126147,Doing other things
-126185,Swiping Down
-126247,Swiping Up
-126315,Pushing Two Fingers Away
-126328,Doing other things
-126336,Drumming Fingers
-126415,Pulling Two Fingers In
-126489,Zooming In With Full Hand
-126596,Sliding Two Fingers Up
-126609,Swiping Down
-126614,Zooming Out With Two Fingers
-126723,Rolling Hand Backward
-126773,Sliding Two Fingers Right
-126780,Zooming In With Full Hand
-126820,Zooming In With Full Hand
-126829,Sliding Two Fingers Down
-126889,Doing other things
-126900,Swiping Up
-126937,Sliding Two Fingers Up
-126973,Swiping Up
-127155,Rolling Hand Backward
-127232,Thumb Down
-127236,Swiping Left
-127277,Sliding Two Fingers Right
-127311,Sliding Two Fingers Up
-127327,Doing other things
-127423,Zooming Out With Two Fingers
-127573,Swiping Right
-127622,Rolling Hand Forward
-127666,Sliding Two Fingers Down
-127717,Swiping Left
-127734,Thumb Down
-127832,Shaking Hand
-127988,Drumming Fingers
-127998,Thumb Down
-128015,Swiping Left
-128261,Rolling Hand Forward
-128287,Zooming In With Full Hand
-128291,Rolling Hand Backward
-128313,Rolling Hand Forward
-128331,Rolling Hand Backward
-128434,Zooming Out With Two Fingers
-128458,Doing other things
-128477,Rolling Hand Forward
-128502,Thumb Up
-128503,Sliding Two Fingers Left
-128510,Rolling Hand Backward
-128686,Doing other things
-128729,Stop Sign
-128769,Pulling Two Fingers In
-128849,Pushing Two Fingers Away
-128865,Sliding Two Fingers Down
-128888,Stop Sign
-128890,Zooming Out With Full Hand
-129006,Rolling Hand Backward
-129071,Zooming Out With Full Hand
-129124,Shaking Hand
-129137,Stop Sign
-129177,Sliding Two Fingers Down
-129178,Swiping Down
-129247,Sliding Two Fingers Right
-129346,Shaking Hand
-129447,Doing other things
-129491,No gesture
-129593,Drumming Fingers
-129689,Sliding Two Fingers Left
-129732,Drumming Fingers
-129751,Shaking Hand
-129926,Stop Sign
-129959,Shaking Hand
-130024,Drumming Fingers
-130088,Sliding Two Fingers Up
-130267,No gesture
-130389,Pulling Hand In
-130392,Thumb Up
-130548,Doing other things
-130576,Stop Sign
-130631,Drumming Fingers
-130688,Drumming Fingers
-130706,Doing other things
-130940,Pulling Two Fingers In
-131006,Rolling Hand Backward
-131023,Pushing Two Fingers Away
-131104,Zooming Out With Full Hand
-131154,Zooming Out With Full Hand
-131177,Zooming In With Full Hand
-131278,No gesture
-131371,Swiping Down
-131391,Zooming Out With Full Hand
-131394,Swiping Left
-131445,Zooming In With Two Fingers
-131464,Doing other things
-131547,Stop Sign
-131620,Swiping Up
-131708,Swiping Down
-131801,Pushing Two Fingers Away
-131846,Swiping Down
-131915,Rolling Hand Backward
-131961,Swiping Up
-132051,Pulling Hand In
-132064,Zooming In With Two Fingers
-132131,Swiping Right
-132132,Doing other things
-132139,Doing other things
-132164,Sliding Two Fingers Down
-132283,Zooming Out With Full Hand
-132290,Sliding Two Fingers Up
-132292,Shaking Hand
-132297,Zooming In With Full Hand
-132366,No gesture
-132524,Pushing Hand Away
-132525,Doing other things
-132662,Pulling Hand In
-132677,Swiping Down
-132707,Zooming Out With Full Hand
-132750,Sliding Two Fingers Right
-132842,Sliding Two Fingers Up
-132903,Drumming Fingers
-133102,Thumb Up
-133146,Doing other things
-133319,Pushing Two Fingers Away
-133351,Thumb Up
-133434,Doing other things
-133438,Swiping Left
-133478,Pulling Two Fingers In
-133536,Sliding Two Fingers Left
-133657,Drumming Fingers
-133662,Drumming Fingers
-133664,Zooming Out With Full Hand
-133734,Swiping Up
-133761,No gesture
-133771,Pulling Hand In
-133852,Pushing Hand Away
-133913,Swiping Up
-133964,Sliding Two Fingers Left
-133989,Sliding Two Fingers Left
-134062,Zooming In With Full Hand
-134133,Rolling Hand Backward
-134182,Swiping Right
-134365,Thumb Up
-134386,Doing other things
-134439,Drumming Fingers
-134515,Sliding Two Fingers Down
-134598,Sliding Two Fingers Up
-134648,Thumb Down
-134664,Zooming In With Two Fingers
-134674,Doing other things
-134696,Drumming Fingers
-134750,Swiping Up
-134962,Pulling Two Fingers In
-135123,Drumming Fingers
-135281,Pulling Two Fingers In
-135293,Sliding Two Fingers Left
-135340,Pulling Two Fingers In
-135458,Swiping Up
-135496,Pulling Two Fingers In
-135514,Swiping Down
-135543,Zooming Out With Two Fingers
-135717,Thumb Up
-135721,Pulling Hand In
-135799,Swiping Left
-135811,Pushing Two Fingers Away
-135826,Pushing Hand Away
-135887,Shaking Hand
-135898,Zooming Out With Full Hand
-135977,Rolling Hand Forward
-135982,Shaking Hand
-136017,No gesture
-136024,Sliding Two Fingers Right
-136038,Doing other things
-136132,Turning Hand Counterclockwise
-136140,Stop Sign
-136169,Swiping Down
-136306,Zooming Out With Two Fingers
-136311,Pushing Two Fingers Away
-136314,Swiping Up
-136327,Sliding Two Fingers Left
-136332,Sliding Two Fingers Right
-136365,Swiping Up
-136368,Pushing Hand Away
-136410,Zooming Out With Two Fingers
-136469,Zooming In With Two Fingers
-136472,Pulling Two Fingers In
-136582,No gesture
-136643,Sliding Two Fingers Up
-136653,Sliding Two Fingers Left
-136720,Rolling Hand Forward
-136822,Swiping Down
-137138,Zooming Out With Full Hand
-137165,Zooming In With Full Hand
-137192,No gesture
-137210,Doing other things
-137263,Drumming Fingers
-137300,Swiping Left
-137326,Swiping Left
-137331,Swiping Right
-137342,Rolling Hand Forward
-137398,Sliding Two Fingers Down
-137416,Thumb Up
-137427,Rolling Hand Forward
-137481,Zooming Out With Full Hand
-137501,Pulling Hand In
-137540,Zooming Out With Full Hand
-137679,Swiping Down
-137867,Swiping Left
-137919,Pulling Hand In
-138006,Doing other things
-138018,Swiping Down
-138056,Drumming Fingers
-138119,Swiping Left
-138140,Rolling Hand Forward
-138299,Swiping Down
-138371,Pushing Hand Away
-138470,Swiping Up
-138496,Rolling Hand Backward
-138595,Pulling Hand In
-138629,Rolling Hand Backward
-138705,Pulling Hand In
-138787,Pulling Hand In
-138968,Sliding Two Fingers Down
-138991,Pushing Hand Away
-139011,Swiping Right
-139028,Pushing Hand Away
-139035,Thumb Down
-139099,Doing other things
-139133,Pushing Hand Away
-139135,Sliding Two Fingers Down
-139165,Zooming Out With Full Hand
-139206,Zooming Out With Two Fingers
-139269,Doing other things
-139290,Swiping Right
-139311,Zooming Out With Two Fingers
-139339,Drumming Fingers
-139459,Pushing Hand Away
-139522,Sliding Two Fingers Down
-139676,Pulling Two Fingers In
-139682,Stop Sign
-139824,Pushing Two Fingers Away
-139856,Sliding Two Fingers Down
-139912,Zooming Out With Full Hand
-139952,Pulling Hand In
-140018,Zooming In With Full Hand
-140025,Shaking Hand
-140135,Thumb Up
-140156,Drumming Fingers
-140159,Swiping Right
-140195,Rolling Hand Forward
-140219,Pushing Hand Away
-140300,Zooming In With Full Hand
-140325,Pulling Two Fingers In
-140564,Sliding Two Fingers Right
-140634,Turning Hand Counterclockwise
-140647,No gesture
-140692,Pushing Two Fingers Away
-140714,Swiping Down
-140720,Doing other things
-140819,Doing other things
-140851,Pushing Hand Away
-140867,Pushing Hand Away
-140878,Thumb Up
-140954,Zooming In With Two Fingers
-140989,Swiping Right
-141213,Sliding Two Fingers Right
-141248,Rolling Hand Backward
-141279,Pulling Two Fingers In
-141291,Zooming In With Two Fingers
-141337,Drumming Fingers
-141445,Pulling Hand In
-141455,Doing other things
-141515,Sliding Two Fingers Right
-141569,No gesture
-141575,Rolling Hand Forward
-141609,Sliding Two Fingers Right
-141713,Thumb Down
-141721,Thumb Up
-141744,Swiping Down
-141791,Sliding Two Fingers Up
-141895,Stop Sign
-142009,Swiping Left
-142080,Pulling Hand In
-142082,Sliding Two Fingers Right
-142157,Pulling Hand In
-142202,Stop Sign
-142210,Zooming Out With Full Hand
-142221,Zooming Out With Two Fingers
-142413,Pushing Hand Away
-142415,Swiping Right
-142428,Zooming Out With Two Fingers
-142535,Zooming In With Two Fingers
-142689,Zooming In With Full Hand
-142815,Sliding Two Fingers Up
-142826,Thumb Up
-142838,Turning Hand Counterclockwise
-142928,Rolling Hand Backward
-142953,Pulling Hand In
-142965,Swiping Down
-142981,Pushing Two Fingers Away
-143063,Zooming In With Two Fingers
-143113,Turning Hand Counterclockwise
-143143,Pushing Hand Away
-143189,Zooming Out With Full Hand
-143197,Swiping Left
-143307,Sliding Two Fingers Right
-143641,Turning Hand Clockwise
-143645,Sliding Two Fingers Down
-143653,Pushing Hand Away
-143655,No gesture
-143658,Stop Sign
-143701,Zooming In With Full Hand
-143790,Doing other things
-143808,No gesture
-143852,Turning Hand Clockwise
-144005,Stop Sign
-144038,Zooming In With Two Fingers
-144076,Turning Hand Counterclockwise
-144095,Pushing Hand Away
-144171,Turning Hand Counterclockwise
-144176,Zooming In With Two Fingers
-144203,No gesture
-144223,No gesture
-144252,Swiping Right
-144669,Doing other things
-144706,Zooming Out With Two Fingers
-144729,Swiping Up
-144772,Zooming Out With Two Fingers
-144789,Sliding Two Fingers Right
-144797,Pulling Two Fingers In
-144800,Swiping Up
-144817,Rolling Hand Forward
-144829,Pushing Two Fingers Away
-144873,Stop Sign
-144888,Stop Sign
-144903,Sliding Two Fingers Up
-144994,Sliding Two Fingers Right
-145104,Pulling Two Fingers In
-145207,Pulling Two Fingers In
-145287,Swiping Down
-145319,Zooming Out With Two Fingers
-145351,Swiping Left
-145403,Pushing Two Fingers Away
-145495,Zooming Out With Full Hand
-145550,Sliding Two Fingers Up
-145578,Swiping Right
-145619,Sliding Two Fingers Down
-145699,Sliding Two Fingers Left
-145700,Sliding Two Fingers Down
-145776,No gesture
-145804,Sliding Two Fingers Left
-145850,Sliding Two Fingers Left
-145890,Thumb Down
-145902,Rolling Hand Forward
-145965,Swiping Down
-145967,Swiping Up
-145975,Sliding Two Fingers Down
-145990,Sliding Two Fingers Left
-146029,Sliding Two Fingers Right
-146044,Pushing Two Fingers Away
-146164,Zooming In With Full Hand
-146200,Zooming In With Two Fingers
-146230,Drumming Fingers
-146355,Sliding Two Fingers Right
-146424,Pulling Hand In
-146493,Turning Hand Clockwise
-146594,Pushing Hand Away
-146728,Rolling Hand Forward
-146893,Pulling Hand In
-146916,Sliding Two Fingers Right
-146947,Swiping Right
-147030,Zooming In With Full Hand
-147062,No gesture
-147087,Swiping Down
-147155,Zooming Out With Two Fingers
-147187,Rolling Hand Forward
-147193,Thumb Down
-147252,Sliding Two Fingers Left
-147468,Rolling Hand Backward
-147493,Zooming In With Full Hand
-147575,Zooming In With Two Fingers
-147654,Swiping Up
-147665,Pushing Two Fingers Away
-147693,Doing other things
-147812,Pulling Two Fingers In
-147915,Zooming In With Two Fingers
+,Index,Label
+3,127103,Pushing Two Fingers Away
+7,80902,Shaking Hand
+18,3542,Sliding Two Fingers Down
+19,90399,Rolling Hand Forward
+20,89802,Pulling Hand In
+36,137566,Sliding Two Fingers Right
+44,111897,Thumb Up
+45,2747,Shaking Hand
+46,106008,Rolling Hand Forward
+52,63132,No gesture
+53,19004,Rolling Hand Forward
+54,33513,Rolling Hand Forward
+56,121852,Rolling Hand Forward
+57,67638,Thumb Up
+59,74221,Sliding Two Fingers Down
+61,17207,Rolling Hand Forward
+66,126361,Shaking Hand
+67,62186,Sliding Two Fingers Down
+68,97198,Shaking Hand
+75,94983,Rolling Hand Forward
+79,23343,Rolling Hand Forward
+80,94034,Shaking Hand
+81,77781,Sliding Two Fingers Left
+83,84116,Sliding Two Fingers Right
+86,109535,Shaking Hand
+87,13112,Turning Hand Counterclockwise
+89,11661,Pulling Hand In
+90,118571,Rolling Hand Forward
+91,59420,Sliding Two Fingers Right
+93,113591,Rolling Hand Forward
+94,137401,Pulling Hand In
+97,54893,Pulling Hand In
+98,62180,Pushing Two Fingers Away
+99,111936,Sliding Two Fingers Down
+103,83511,Sliding Two Fingers Right
+107,10823,Sliding Two Fingers Down
+108,83610,Pulling Hand In
+112,9096,No gesture
+113,119578,Sliding Two Fingers Right
+118,2513,Sliding Two Fingers Left
+121,120838,Shaking Hand
+129,145048,Rolling Hand Forward
+133,58579,Turning Hand Counterclockwise
+141,136640,Pulling Hand In
+142,4395,Rolling Hand Forward
+145,129100,Pulling Hand In
+147,95281,Pulling Hand In
+148,33658,No gesture
+149,96102,Shaking Hand
+150,61124,Sliding Two Fingers Left
+151,37303,Sliding Two Fingers Right
+155,134751,Rolling Hand Forward
+158,55369,Pulling Hand In
+163,115066,No gesture
+168,65593,Sliding Two Fingers Right
+170,15862,Shaking Hand
+178,9725,Sliding Two Fingers Down
+184,128072,Turning Hand Counterclockwise
+185,67642,No gesture
+189,144138,Sliding Two Fingers Left
+192,37714,Sliding Two Fingers Down
+193,115327,Pulling Hand In
+194,92431,Sliding Two Fingers Left
+195,64212,Rolling Hand Forward
+196,83797,Turning Hand Counterclockwise
+198,79579,Thumb Up
+201,83235,No gesture
+202,126508,Sliding Two Fingers Right
+204,18699,Rolling Hand Forward
+208,109600,Sliding Two Fingers Left
+211,102947,Pushing Two Fingers Away
+214,126308,Sliding Two Fingers Left
+217,31197,No gesture
+220,8749,Shaking Hand
+222,53119,Shaking Hand
+228,124434,Thumb Up
+230,147959,Shaking Hand
+231,51323,Sliding Two Fingers Right
+232,111078,Shaking Hand
+234,76621,Pushing Two Fingers Away
+235,116317,Turning Hand Counterclockwise
+239,137412,Pulling Hand In
+241,27078,Sliding Two Fingers Down
+242,2346,Rolling Hand Forward
+244,73779,Thumb Up
+255,134170,Thumb Up
+256,87103,Rolling Hand Forward
+261,9052,No gesture
+263,145813,Sliding Two Fingers Right
+266,73861,Pulling Hand In
+276,17858,Turning Hand Counterclockwise
+277,47997,Shaking Hand
+281,69978,Thumb Up
+291,47182,Sliding Two Fingers Left
+293,47069,Sliding Two Fingers Down
+296,34749,Sliding Two Fingers Left
+299,65659,Sliding Two Fingers Left
+303,97761,No gesture
+304,90892,Turning Hand Counterclockwise
+305,86117,Sliding Two Fingers Down
+306,62470,Sliding Two Fingers Down
+307,85780,Shaking Hand
+308,140205,Sliding Two Fingers Down
+311,124486,Sliding Two Fingers Down
+315,111047,Pushing Two Fingers Away
+316,90775,Sliding Two Fingers Left
+317,133344,No gesture
+318,90683,Thumb Up
+319,98381,Thumb Up
+320,61797,Pushing Two Fingers Away
+321,115256,Pushing Two Fingers Away
+322,135821,Shaking Hand
+324,56852,Pulling Hand In
+328,5673,No gesture
+333,56791,Rolling Hand Forward
+335,40987,Sliding Two Fingers Down
+339,146423,Shaking Hand
+341,83788,Rolling Hand Forward
+343,147154,Shaking Hand
+349,1208,No gesture
+351,132450,Sliding Two Fingers Down
+352,76909,Pulling Hand In
+355,52839,Sliding Two Fingers Right
+357,56804,Pushing Two Fingers Away
+361,13396,Pushing Two Fingers Away
+362,29015,Sliding Two Fingers Left
+373,38620,Turning Hand Counterclockwise
+378,87276,Pulling Hand In
+380,16276,Sliding Two Fingers Right
+381,138747,Pushing Two Fingers Away
+385,29476,Sliding Two Fingers Right
+386,91591,Pulling Hand In
+387,36179,Sliding Two Fingers Left
+389,104411,Sliding Two Fingers Right
+392,93563,Sliding Two Fingers Left
+394,135118,No gesture
+396,3823,No gesture
+405,102827,Shaking Hand
+406,74252,Thumb Up
+407,140786,Sliding Two Fingers Right
+408,51418,Pulling Hand In
+412,16510,No gesture
+417,106085,No gesture
+419,137571,Shaking Hand
+424,3177,No gesture
+428,40854,Sliding Two Fingers Left
+431,62421,Pulling Hand In
+432,108685,Rolling Hand Forward
+437,43980,Sliding Two Fingers Down
+439,124094,Sliding Two Fingers Left
+442,113751,Sliding Two Fingers Left
+443,147992,Pulling Hand In
+446,128012,Sliding Two Fingers Left
+447,119356,Shaking Hand
+448,76463,Rolling Hand Forward
+450,138462,Sliding Two Fingers Right
+453,56153,Pushing Two Fingers Away
+454,98626,Sliding Two Fingers Down
+456,74656,Rolling Hand Forward
+468,113054,Sliding Two Fingers Left
+471,78443,Pulling Hand In
+473,35297,Sliding Two Fingers Down
+478,29137,Rolling Hand Forward
+484,76445,Thumb Up
+490,42989,Pushing Two Fingers Away
+492,46060,Pulling Hand In
+494,108429,Sliding Two Fingers Left
+499,61171,Rolling Hand Forward
+503,134483,Thumb Up
+506,83088,Sliding Two Fingers Right
+515,128849,Pushing Two Fingers Away
+516,106822,Thumb Up
+518,55599,Turning Hand Counterclockwise
+519,24500,Sliding Two Fingers Down
+528,78418,Sliding Two Fingers Left
+530,88004,No gesture
+535,34754,Shaking Hand
+538,47106,Thumb Up
+542,1077,Pulling Hand In
+544,61108,Sliding Two Fingers Left
+547,61825,Sliding Two Fingers Right
+551,82669,Rolling Hand Forward
+554,112230,Sliding Two Fingers Down
+557,76834,Pulling Hand In
+560,58719,Pulling Hand In
+561,27128,Pulling Hand In
+563,76235,Rolling Hand Forward
+565,73448,Shaking Hand
+566,38829,No gesture
+574,8801,Sliding Two Fingers Left
+575,33642,Sliding Two Fingers Right
+576,95183,Rolling Hand Forward
+577,55399,Rolling Hand Forward
+581,103825,Sliding Two Fingers Left
+585,138123,No gesture
+586,127913,Pushing Two Fingers Away
+589,42463,No gesture
+590,118842,Rolling Hand Forward
+591,2592,Sliding Two Fingers Right
+602,39019,Sliding Two Fingers Right
+606,130125,No gesture
+613,52608,Sliding Two Fingers Right
+615,43511,Sliding Two Fingers Right
+616,66074,Rolling Hand Forward
+626,31685,No gesture
+630,144790,No gesture
+635,57075,Pushing Two Fingers Away
+638,25814,Sliding Two Fingers Down
+640,87272,No gesture
+645,33388,Sliding Two Fingers Left
+646,30152,Sliding Two Fingers Right
+648,113508,Pushing Two Fingers Away
+650,41937,Thumb Up
+651,144666,Rolling Hand Forward
+652,105913,Sliding Two Fingers Down
+653,23575,Sliding Two Fingers Left
+657,11870,Pulling Hand In
+658,95667,Sliding Two Fingers Left
+661,119420,Rolling Hand Forward
+662,20687,Rolling Hand Forward
+663,108560,Rolling Hand Forward
+666,18299,No gesture
+668,124184,Sliding Two Fingers Down
+669,55070,Pushing Two Fingers Away
+672,132708,Pulling Hand In
+678,72380,Sliding Two Fingers Down
+679,13145,No gesture
+680,113432,No gesture
+683,32079,Shaking Hand
+689,62151,Rolling Hand Forward
+691,18001,Sliding Two Fingers Down
+693,91540,Turning Hand Counterclockwise
+697,133731,Sliding Two Fingers Right
+700,49146,Rolling Hand Forward
+702,1111,No gesture
+704,58430,Sliding Two Fingers Right
+706,11846,Pushing Two Fingers Away
+707,103648,No gesture
+711,14465,Thumb Up
+714,103812,Thumb Up
+716,24888,Sliding Two Fingers Down
+718,46448,Turning Hand Counterclockwise
+722,20193,No gesture
+723,47363,Pulling Hand In
+725,86896,Rolling Hand Forward
+726,60417,Shaking Hand
+727,4510,Pulling Hand In
+728,61389,Sliding Two Fingers Down
+730,133313,Sliding Two Fingers Right
+733,137097,No gesture
+736,18434,Pushing Two Fingers Away
+737,94196,Sliding Two Fingers Left
+741,108747,Sliding Two Fingers Left
+744,13950,Sliding Two Fingers Right
+746,6314,Pulling Hand In
+749,99564,Sliding Two Fingers Right
+750,28263,Thumb Up
+754,4973,Shaking Hand
+758,140858,Pushing Two Fingers Away
+761,7426,Pulling Hand In
+762,109039,Pushing Two Fingers Away
+764,105216,Pulling Hand In
+767,27024,Thumb Up
+768,76855,Sliding Two Fingers Right
+769,68746,No gesture
+770,19595,Turning Hand Counterclockwise
+772,76366,Rolling Hand Forward
+789,89767,No gesture
+791,131417,Shaking Hand
+793,126884,Sliding Two Fingers Down
+797,86743,Sliding Two Fingers Down
+799,67138,Thumb Up
+802,147081,Sliding Two Fingers Down
+803,131189,Turning Hand Counterclockwise
+806,147829,Shaking Hand
+808,52373,Rolling Hand Forward
+809,44572,Sliding Two Fingers Right
+812,52160,Turning Hand Counterclockwise
+817,128438,Turning Hand Counterclockwise
+820,8520,Thumb Up
+826,73825,Pulling Hand In
+828,103981,Pushing Two Fingers Away
+830,29303,No gesture
+833,75425,Sliding Two Fingers Right
+838,10640,Sliding Two Fingers Left
+848,51594,Rolling Hand Forward
+854,140432,Shaking Hand
+855,23830,Rolling Hand Forward
+858,102246,Thumb Up
+859,124116,Thumb Up
+863,54689,Pulling Hand In
+866,8212,Pulling Hand In
+876,131077,Thumb Up
+877,34646,No gesture
+878,91163,Sliding Two Fingers Left
+882,66932,Sliding Two Fingers Left
+887,63915,Pushing Two Fingers Away
+889,135135,Sliding Two Fingers Down
+890,87421,Shaking Hand
+891,29847,No gesture
+895,69648,Pushing Two Fingers Away
+896,44360,Sliding Two Fingers Left
+898,134922,Pushing Two Fingers Away
+899,98148,Shaking Hand
+904,111946,Thumb Up
+906,32077,Rolling Hand Forward
+907,33100,Turning Hand Counterclockwise
+908,15269,Sliding Two Fingers Down
+909,101667,Shaking Hand
+912,22638,Sliding Two Fingers Right
+919,34650,Sliding Two Fingers Down
+922,7521,Pushing Two Fingers Away
+924,43403,Sliding Two Fingers Down
+926,78838,Sliding Two Fingers Down
+927,10547,Pushing Two Fingers Away
+933,70187,Pulling Hand In
+936,133280,Shaking Hand
+940,56041,Pulling Hand In
+943,76171,Rolling Hand Forward
+949,93223,Thumb Up
+959,43005,Rolling Hand Forward
+962,59721,No gesture
+963,94364,Sliding Two Fingers Right
+970,42856,Turning Hand Counterclockwise
+976,128541,Sliding Two Fingers Right
+981,92056,Shaking Hand
+982,141951,Sliding Two Fingers Down
+983,3361,Pulling Hand In
+984,97568,No gesture
+986,147688,Shaking Hand
+987,137906,Shaking Hand
+992,141238,Pushing Two Fingers Away
+993,128874,Rolling Hand Forward
+997,136997,Pushing Two Fingers Away
+999,20387,No gesture
+1003,44649,No gesture
+1005,99636,No gesture
+1008,68473,Pulling Hand In
+1012,31869,Sliding Two Fingers Down
+1013,128279,Sliding Two Fingers Down
+1014,72792,Pushing Two Fingers Away
+1015,84315,Shaking Hand
+1016,45054,Pulling Hand In
+1019,8329,Thumb Up
+1023,133089,Sliding Two Fingers Left
+1024,109993,Pulling Hand In
+1027,24620,Sliding Two Fingers Right
+1028,145677,Sliding Two Fingers Left
+1029,76493,Sliding Two Fingers Right
+1037,63649,Sliding Two Fingers Right
+1038,15398,Sliding Two Fingers Down
+1042,44677,Pushing Two Fingers Away
+1045,112294,Thumb Up
+1046,141144,Pushing Two Fingers Away
+1048,34595,Sliding Two Fingers Left
+1050,50906,Thumb Up
+1053,48218,Sliding Two Fingers Left
+1054,138967,Thumb Up
+1057,99052,Thumb Up
+1058,90936,No gesture
+1059,19482,Pushing Two Fingers Away
+1060,4507,Turning Hand Counterclockwise
+1061,129969,No gesture
+1063,8370,Rolling Hand Forward
+1064,122193,Sliding Two Fingers Right
+1066,90466,Pulling Hand In
+1067,35977,Pulling Hand In
+1069,15552,Turning Hand Counterclockwise
+1071,85450,Pulling Hand In
+1073,7171,Turning Hand Counterclockwise
+1076,85588,Pulling Hand In
+1078,96088,Sliding Two Fingers Down
+1079,26662,Sliding Two Fingers Left
+1081,114236,Shaking Hand
+1083,67477,Pushing Two Fingers Away
+1084,83122,No gesture
+1090,9152,Thumb Up
+1091,133546,Turning Hand Counterclockwise
+1092,52697,Turning Hand Counterclockwise
+1093,129370,Sliding Two Fingers Down
+1095,148005,Sliding Two Fingers Down
+1097,122968,Sliding Two Fingers Left
+1104,105881,Turning Hand Counterclockwise
+1110,107562,Shaking Hand
+1111,4403,Sliding Two Fingers Down
+1116,6899,Sliding Two Fingers Right
+1121,27212,Pushing Two Fingers Away
+1122,73550,Pulling Hand In
+1125,80197,Sliding Two Fingers Right
+1128,13067,Sliding Two Fingers Down
+1132,139545,Shaking Hand
+1134,45138,Pushing Two Fingers Away
+1136,59879,Turning Hand Counterclockwise
+1138,132421,Shaking Hand
+1146,92767,Rolling Hand Forward
+1149,103296,Turning Hand Counterclockwise
+1154,130149,Sliding Two Fingers Left
+1159,110559,Pushing Two Fingers Away
+1162,52570,Shaking Hand
+1163,23016,No gesture
+1169,26574,Sliding Two Fingers Down
+1172,132797,Sliding Two Fingers Left
+1173,104013,Turning Hand Counterclockwise
+1176,32918,Pulling Hand In
+1177,21955,Sliding Two Fingers Right
+1178,15599,Turning Hand Counterclockwise
+1180,85965,Rolling Hand Forward
+1184,72340,Pulling Hand In
+1188,12728,Sliding Two Fingers Left
+1190,36723,Shaking Hand
+1191,72921,No gesture
+1192,79042,Rolling Hand Forward
+1194,78121,Pulling Hand In
+1196,132735,Sliding Two Fingers Down
+1199,95970,Sliding Two Fingers Left
+1202,123412,Pulling Hand In
+1205,34620,Sliding Two Fingers Left
+1206,10368,Shaking Hand
+1207,13172,Sliding Two Fingers Right
+1209,115786,Turning Hand Counterclockwise
+1211,132595,Sliding Two Fingers Right
+1212,73377,Sliding Two Fingers Left
+1215,108167,Pulling Hand In
+1224,128483,Sliding Two Fingers Down
+1225,8043,Thumb Up
+1227,93367,No gesture
+1229,72638,Pulling Hand In
+1230,135535,Pulling Hand In
+1232,69299,Sliding Two Fingers Left
+1235,94163,Rolling Hand Forward
+1238,61636,Sliding Two Fingers Down
+1239,64729,Pushing Two Fingers Away
+1241,103324,Rolling Hand Forward
+1244,101444,Sliding Two Fingers Down
+1245,10915,Thumb Up
+1255,83782,Pushing Two Fingers Away
+1258,42719,Rolling Hand Forward
+1263,38048,Turning Hand Counterclockwise
+1265,117691,Turning Hand Counterclockwise
+1266,135152,No gesture
+1268,13519,Shaking Hand
+1275,140174,Turning Hand Counterclockwise
+1277,76309,Pushing Two Fingers Away
+1279,1133,Shaking Hand
+1280,36956,Sliding Two Fingers Right
+1281,113656,Sliding Two Fingers Right
+1282,45152,Shaking Hand
+1284,95629,Pulling Hand In
+1285,21774,Rolling Hand Forward
+1286,26534,Sliding Two Fingers Right
+1289,92193,Thumb Up
+1297,82048,Shaking Hand
+1302,111720,Pulling Hand In
+1308,19286,Pulling Hand In
+1310,87935,Pulling Hand In
+1311,6252,Thumb Up
+1313,92415,Sliding Two Fingers Left
+1315,145276,Sliding Two Fingers Right
+1316,83814,Pulling Hand In
+1317,91636,Sliding Two Fingers Left
+1320,8815,Pulling Hand In
+1322,111691,Sliding Two Fingers Down
+1325,134096,Shaking Hand
+1326,67094,Shaking Hand
+1327,106893,Shaking Hand
+1334,111596,Sliding Two Fingers Left
+1338,23950,Shaking Hand
+1339,124404,Sliding Two Fingers Left
+1343,109412,Shaking Hand
+1344,72373,Sliding Two Fingers Down
+1347,49582,Rolling Hand Forward
+1352,92214,Shaking Hand
+1354,140929,No gesture
+1357,75620,Pushing Two Fingers Away
+1360,142240,Sliding Two Fingers Right
+1361,29929,Pulling Hand In
+1363,94819,Sliding Two Fingers Right
+1364,61815,Shaking Hand
+1366,86131,Thumb Up
+1368,116578,Pushing Two Fingers Away
+1371,122515,Shaking Hand
+1372,135958,Shaking Hand
+1375,132754,Thumb Up
+1376,136333,No gesture
+1377,26489,Sliding Two Fingers Left
+1380,79175,Sliding Two Fingers Left
+1382,132730,Pushing Two Fingers Away
+1384,134885,Sliding Two Fingers Down
+1391,53849,No gesture
+1398,41919,Thumb Up
+1399,56355,Shaking Hand
+1400,4028,No gesture
+1406,49718,Thumb Up
+1407,144014,Sliding Two Fingers Right
+1408,121434,Sliding Two Fingers Down
+1410,1335,Shaking Hand
+1413,2101,Pulling Hand In
+1421,111652,Thumb Up
+1423,107232,Sliding Two Fingers Down
+1425,27329,No gesture
+1427,93,Sliding Two Fingers Down
+1439,19833,Shaking Hand
+1440,135107,Pushing Two Fingers Away
+1441,105354,Sliding Two Fingers Right
+1442,146920,Sliding Two Fingers Right
+1444,53886,Pushing Two Fingers Away
+1446,83711,Pulling Hand In
+1447,95809,Sliding Two Fingers Down
+1449,23586,Sliding Two Fingers Down
+1452,90541,Shaking Hand
+1456,114221,Pushing Two Fingers Away
+1468,65904,Sliding Two Fingers Down
+1469,142228,No gesture
+1470,36372,Shaking Hand
+1473,62402,Sliding Two Fingers Down
+1480,88779,Shaking Hand
+1488,54572,Rolling Hand Forward
+1494,41134,Turning Hand Counterclockwise
+1495,72425,Thumb Up
+1498,34917,Rolling Hand Forward
+1500,142267,Sliding Two Fingers Left
+1501,13011,Sliding Two Fingers Left
+1502,47976,Thumb Up
+1504,41822,Rolling Hand Forward
+1507,107034,Sliding Two Fingers Left
+1508,63012,No gesture
+1512,94005,Sliding Two Fingers Right
+1517,104250,Thumb Up
+1519,129813,Pushing Two Fingers Away
+1520,113828,Sliding Two Fingers Down
+1521,57127,Sliding Two Fingers Left
+1522,89996,Sliding Two Fingers Down
+1523,72639,Shaking Hand
+1525,68347,Sliding Two Fingers Right
+1527,63291,Pushing Two Fingers Away
+1528,62453,Sliding Two Fingers Left
+1529,126349,Pushing Two Fingers Away
+1531,120710,No gesture
+1532,26470,Sliding Two Fingers Down
+1533,128872,Rolling Hand Forward
+1534,43383,Sliding Two Fingers Right
+1535,81909,Sliding Two Fingers Right
+1536,11990,Sliding Two Fingers Left
+1542,23130,Turning Hand Counterclockwise
+1543,110928,Sliding Two Fingers Down
+1547,33824,Sliding Two Fingers Left
+1552,15716,Sliding Two Fingers Right
+1556,9615,Pulling Hand In
+1557,146355,Sliding Two Fingers Right
+1562,39529,Turning Hand Counterclockwise
+1564,93724,Sliding Two Fingers Down
+1569,57574,Sliding Two Fingers Left
+1571,107219,Sliding Two Fingers Left
+1574,6581,No gesture
+1575,91516,No gesture
+1576,123533,Pulling Hand In
+1578,78991,No gesture
+1581,53230,Sliding Two Fingers Left
+1583,98223,Sliding Two Fingers Down
+1586,31224,Thumb Up
+1589,140003,Pushing Two Fingers Away
+1591,85740,No gesture
+1594,100607,Pushing Two Fingers Away
+1600,24762,Thumb Up
+1603,34857,Pulling Hand In
+1606,63555,Thumb Up
+1607,5033,Pushing Two Fingers Away
+1611,20182,Rolling Hand Forward
+1612,30498,Pulling Hand In
+1620,24427,Pulling Hand In
+1626,57437,Shaking Hand
+1627,110009,Sliding Two Fingers Down
+1636,111201,Shaking Hand
+1637,105414,Turning Hand Counterclockwise
+1638,12467,Rolling Hand Forward
+1644,126332,Pulling Hand In
+1646,33449,Shaking Hand
+1651,38531,Rolling Hand Forward
+1662,117901,Turning Hand Counterclockwise
+1663,121138,Thumb Up
+1664,43337,Pushing Two Fingers Away
+1669,109595,Sliding Two Fingers Left
+1674,11681,Sliding Two Fingers Right
+1677,67520,Sliding Two Fingers Left
+1681,133606,Thumb Up
+1684,98054,Rolling Hand Forward
+1685,9341,No gesture
+1686,49680,Pushing Two Fingers Away
+1687,97995,No gesture
+1691,80986,Turning Hand Counterclockwise
+1698,15840,Pulling Hand In
+1699,123174,Pulling Hand In
+1703,121797,Turning Hand Counterclockwise
+1704,50239,Pulling Hand In
+1710,97347,Sliding Two Fingers Down
+1713,103593,Sliding Two Fingers Left
+1714,136332,Sliding Two Fingers Right
+1718,38937,No gesture
+1721,92363,Pulling Hand In
+1731,146922,Sliding Two Fingers Right
+1734,92204,Shaking Hand
+1735,58594,Pushing Two Fingers Away
+1740,8722,Rolling Hand Forward
+1742,81891,Sliding Two Fingers Left
+1743,121008,Thumb Up
+1746,89349,Sliding Two Fingers Left
+1749,102002,No gesture
+1750,61529,Pulling Hand In
+1759,23515,Thumb Up
+1760,42050,Shaking Hand
+1762,129087,Sliding Two Fingers Down
+1763,17664,Rolling Hand Forward
+1765,32874,Thumb Up
+1768,36350,Sliding Two Fingers Left
+1771,125704,Thumb Up
+1772,137052,Pulling Hand In
+1777,110550,Sliding Two Fingers Left
+1779,86247,Sliding Two Fingers Right
+1782,1964,Sliding Two Fingers Left
+1789,75444,Thumb Up
+1796,94430,Sliding Two Fingers Right
+1799,121919,Shaking Hand
+1801,52711,Pulling Hand In
+1802,53351,Sliding Two Fingers Down
+1804,12475,Sliding Two Fingers Right
+1807,110316,Sliding Two Fingers Left
+1808,22302,Shaking Hand
+1812,62898,No gesture
+1813,141445,Pulling Hand In
+1816,26320,Rolling Hand Forward
+1817,49084,Shaking Hand
+1820,127966,Pushing Two Fingers Away
+1823,45078,Sliding Two Fingers Left
+1828,146170,Sliding Two Fingers Right
+1829,120,Thumb Up
+1833,3837,Pulling Hand In
+1834,129760,Sliding Two Fingers Left
+1837,99251,Shaking Hand
+1844,145565,No gesture
+1845,95598,Pulling Hand In
+1850,26520,No gesture
+1851,145684,Sliding Two Fingers Left
+1855,12288,Turning Hand Counterclockwise
+1856,79615,Rolling Hand Forward
+1857,148008,No gesture
+1861,74714,Sliding Two Fingers Right
+1864,72587,Turning Hand Counterclockwise
+1867,93243,No gesture
+1869,33027,Sliding Two Fingers Left
+1870,62130,Pushing Two Fingers Away
+1874,86381,Thumb Up
+1876,83765,Sliding Two Fingers Down
+1877,79338,Pushing Two Fingers Away
+1879,146421,Sliding Two Fingers Right
+1880,136308,No gesture
+1882,123580,Sliding Two Fingers Right
+1884,65459,Sliding Two Fingers Down
+1885,105194,Turning Hand Counterclockwise
+1889,90251,Rolling Hand Forward
+1891,33795,Sliding Two Fingers Right
+1897,106250,Rolling Hand Forward
+1907,137301,Thumb Up
+1910,120705,Shaking Hand
+1911,36000,Rolling Hand Forward
+1914,135971,Sliding Two Fingers Left
+1916,108411,Pushing Two Fingers Away
+1918,55862,Thumb Up
+1919,146066,Sliding Two Fingers Down
+1926,29875,Sliding Two Fingers Right
+1929,137749,Sliding Two Fingers Right
+1937,96619,Thumb Up
+1938,25745,Rolling Hand Forward
+1939,120199,Shaking Hand
+1943,104783,Sliding Two Fingers Left
+1944,66718,Sliding Two Fingers Down
+1945,58004,No gesture
+1946,24495,Thumb Up
+1950,7673,Sliding Two Fingers Down
+1951,116155,Sliding Two Fingers Right
+1954,121560,No gesture
+1955,52656,Pushing Two Fingers Away
+1958,94107,Rolling Hand Forward
+1967,110792,Thumb Up
+1978,43256,Shaking Hand
+1990,41978,Sliding Two Fingers Right
+1993,125711,Sliding Two Fingers Right
+1998,129558,Sliding Two Fingers Left
+2001,146998,Rolling Hand Forward
+2002,57824,Pulling Hand In
+2003,14174,Pulling Hand In
+2006,1932,Sliding Two Fingers Right
+2008,83539,Rolling Hand Forward
+2009,36195,Pushing Two Fingers Away
+2012,109951,Sliding Two Fingers Right
+2019,8880,Sliding Two Fingers Right
+2021,101854,Turning Hand Counterclockwise
+2033,83746,Shaking Hand
+2034,31047,No gesture
+2038,88893,Rolling Hand Forward
+2039,59852,Sliding Two Fingers Down
+2040,1492,Sliding Two Fingers Right
+2041,110206,Thumb Up
+2044,4182,Sliding Two Fingers Down
+2045,23319,Shaking Hand
+2052,68311,Sliding Two Fingers Down
+2059,16369,Thumb Up
+2060,88973,Rolling Hand Forward
+2061,134998,Rolling Hand Forward
+2064,36870,Rolling Hand Forward
+2065,40619,Sliding Two Fingers Down
+2072,98880,Turning Hand Counterclockwise
+2074,21410,Sliding Two Fingers Down
+2075,127096,Shaking Hand
+2081,72727,Pushing Two Fingers Away
+2084,75068,Pushing Two Fingers Away
+2085,85083,Sliding Two Fingers Left
+2089,130183,Sliding Two Fingers Down
+2091,55688,Pushing Two Fingers Away
+2093,3240,Pushing Two Fingers Away
+2094,127141,Pushing Two Fingers Away
+2096,63502,Sliding Two Fingers Down
+2097,28710,No gesture
+2101,38313,Thumb Up
+2110,93160,Pushing Two Fingers Away
+2113,68640,Sliding Two Fingers Right
+2124,37471,Turning Hand Counterclockwise
+2125,4069,Sliding Two Fingers Left
+2127,113489,Sliding Two Fingers Left
+2128,124246,Shaking Hand
+2134,108176,Turning Hand Counterclockwise
+2136,44347,Sliding Two Fingers Down
+2137,106040,Rolling Hand Forward
+2138,105964,Thumb Up
+2139,113765,Turning Hand Counterclockwise
+2141,50115,Sliding Two Fingers Down
+2145,43811,Rolling Hand Forward
+2147,118255,Pulling Hand In
+2149,45240,Pushing Two Fingers Away
+2153,36039,Rolling Hand Forward
+2154,42071,Turning Hand Counterclockwise
+2156,83227,Turning Hand Counterclockwise
+2158,65518,No gesture
+2168,88930,Thumb Up
+2171,132339,Sliding Two Fingers Left
+2173,121582,Thumb Up
+2175,96317,Pushing Two Fingers Away
+2177,52781,Sliding Two Fingers Down
+2178,28181,Shaking Hand
+2180,108881,Turning Hand Counterclockwise
+2185,68690,Sliding Two Fingers Down
+2190,57425,Sliding Two Fingers Right
+2192,87657,Pulling Hand In
+2194,103469,Sliding Two Fingers Left
+2195,53738,Thumb Up
+2198,141569,No gesture
+2200,147848,Pulling Hand In
+2201,71156,Sliding Two Fingers Down
+2212,69333,Shaking Hand
+2214,66463,Sliding Two Fingers Right
+2216,73397,Pushing Two Fingers Away
+2217,56298,Sliding Two Fingers Left
+2222,83458,No gesture
+2224,106787,Sliding Two Fingers Right
+2225,86077,Shaking Hand
+2232,30793,Thumb Up
+2233,137342,Rolling Hand Forward
+2236,107046,No gesture
+2238,112242,Turning Hand Counterclockwise
+2239,134365,Thumb Up
+2240,52468,Pushing Two Fingers Away
+2241,103053,No gesture
+2242,36077,Sliding Two Fingers Left
+2246,23716,Turning Hand Counterclockwise
+2247,111846,Turning Hand Counterclockwise
+2248,52105,Pulling Hand In
+2259,9992,Sliding Two Fingers Right
+2260,132867,Sliding Two Fingers Down
+2265,32227,Shaking Hand
+2268,12589,Sliding Two Fingers Left
+2278,48430,Sliding Two Fingers Right
+2279,102089,No gesture
+2281,124950,Turning Hand Counterclockwise
+2282,138308,No gesture
+2283,15249,Thumb Up
+2288,43989,Rolling Hand Forward
+2289,79935,Pushing Two Fingers Away
+2290,23839,Sliding Two Fingers Down
+2291,51179,No gesture
+2297,126208,Pushing Two Fingers Away
+2298,28870,Rolling Hand Forward
+2299,15455,Rolling Hand Forward
+2300,4890,Pushing Two Fingers Away
+2301,24635,No gesture
+2302,140830,Pushing Two Fingers Away
+2303,117004,Pulling Hand In
+2306,15796,Sliding Two Fingers Right
+2308,16319,Sliding Two Fingers Down
+2310,59885,Turning Hand Counterclockwise
+2311,110781,Sliding Two Fingers Down
+2312,16857,No gesture
+2313,72840,Rolling Hand Forward
+2315,80475,Pushing Two Fingers Away
+2316,53827,Sliding Two Fingers Left
+2318,105897,Rolling Hand Forward
+2323,67190,Sliding Two Fingers Right
+2324,136443,Pushing Two Fingers Away
+2326,7352,Rolling Hand Forward
+2327,108562,Sliding Two Fingers Down
+2329,2533,Shaking Hand
+2335,115294,Turning Hand Counterclockwise
+2337,14394,Sliding Two Fingers Left
+2340,6645,Turning Hand Counterclockwise
+2347,118857,Sliding Two Fingers Down
+2348,58476,Thumb Up
+2354,52686,Sliding Two Fingers Left
+2356,109215,Shaking Hand
+2360,22734,Pulling Hand In
+2361,74057,Sliding Two Fingers Right
+2362,145582,Sliding Two Fingers Down
+2370,59982,Shaking Hand
+2372,114451,No gesture
+2374,93902,Turning Hand Counterclockwise
+2375,35132,Rolling Hand Forward
+2378,104852,No gesture
+2380,83872,Turning Hand Counterclockwise
+2386,23977,Thumb Up
+2388,118744,Sliding Two Fingers Right
+2393,46356,Turning Hand Counterclockwise
+2394,9787,Rolling Hand Forward
+2399,133534,No gesture
+2403,94489,Sliding Two Fingers Right
+2404,75866,Thumb Up
+2408,18336,Pulling Hand In
+2409,118822,Pushing Two Fingers Away
+2410,17160,Thumb Up
+2413,85706,Thumb Up
+2416,107394,Turning Hand Counterclockwise
+2419,34047,Pulling Hand In
+2420,48332,Turning Hand Counterclockwise
+2426,51239,No gesture
+2432,50441,Thumb Up
+2434,67256,No gesture
+2435,48450,Rolling Hand Forward
+2437,80556,Shaking Hand
+2438,42131,Sliding Two Fingers Down
+2440,47053,Thumb Up
+2443,25968,Sliding Two Fingers Down
+2444,57210,Shaking Hand
+2446,121909,Sliding Two Fingers Down
+2448,10531,Sliding Two Fingers Left
+2450,67142,Thumb Up
+2455,23196,Thumb Up
+2457,59641,Pushing Two Fingers Away
+2460,94227,Rolling Hand Forward
+2462,75661,Sliding Two Fingers Left
+2463,113034,Sliding Two Fingers Down
+2466,103237,Turning Hand Counterclockwise
+2468,137507,Pushing Two Fingers Away
+2469,34916,Turning Hand Counterclockwise
+2479,81914,Pulling Hand In
+2482,68119,Pushing Two Fingers Away
+2483,103032,Sliding Two Fingers Left
+2488,72331,Pulling Hand In
+2490,22578,Thumb Up
+2493,96554,Sliding Two Fingers Right
+2496,24664,Thumb Up
+2498,111107,Pushing Two Fingers Away
+2499,62836,Pulling Hand In
+2502,126314,Shaking Hand
+2504,105294,Shaking Hand
+2508,123593,Sliding Two Fingers Down
+2509,68229,Sliding Two Fingers Right
+2510,87342,Thumb Up
+2512,30949,Sliding Two Fingers Right
+2514,7425,Sliding Two Fingers Down
+2524,62865,Shaking Hand
+2527,872,Sliding Two Fingers Down
+2528,11068,Sliding Two Fingers Right
+2529,130087,Shaking Hand
+2535,96285,Pushing Two Fingers Away
+2537,14876,Thumb Up
+2542,91325,Shaking Hand
+2543,45350,Rolling Hand Forward
+2544,16495,Sliding Two Fingers Left
+2549,62474,Sliding Two Fingers Down
+2553,123326,Sliding Two Fingers Down
+2556,141977,Sliding Two Fingers Right
+2557,116343,Pushing Two Fingers Away
+2559,75538,Sliding Two Fingers Left
+2560,141473,Sliding Two Fingers Right
+2564,96497,Sliding Two Fingers Down
+2567,71485,No gesture
+2569,125979,Pulling Hand In
+2572,72049,Thumb Up
+2573,76365,Pulling Hand In
+2577,111411,No gesture
+2580,133976,Pushing Two Fingers Away
+2583,142277,Shaking Hand
+2585,73140,Sliding Two Fingers Left
+2589,114409,Sliding Two Fingers Left
+2591,92442,Pulling Hand In
+2596,55705,Sliding Two Fingers Down
+2599,64152,Pushing Two Fingers Away
+2604,124009,Pushing Two Fingers Away
+2605,49280,Thumb Up
+2608,4236,No gesture
+2612,2628,Turning Hand Counterclockwise
+2613,22307,Sliding Two Fingers Left
+2615,81481,Sliding Two Fingers Left
+2616,56619,Sliding Two Fingers Right
+2617,140452,Thumb Up
+2621,47954,Sliding Two Fingers Down
+2624,127501,Pushing Two Fingers Away
+2626,65160,Thumb Up
+2627,136252,Pushing Two Fingers Away
+2628,116011,Pulling Hand In
+2633,99774,Rolling Hand Forward
+2634,77997,Pushing Two Fingers Away
+2635,132151,Turning Hand Counterclockwise
+2636,120904,Pulling Hand In
+2640,135316,No gesture
+2642,140095,Thumb Up
+2643,2947,Sliding Two Fingers Left
+2645,68755,Turning Hand Counterclockwise
+2648,129427,Thumb Up
+2653,15811,No gesture
+2655,118682,Thumb Up
+2657,57558,No gesture
+2659,44823,Sliding Two Fingers Left
+2663,74205,Pulling Hand In
+2665,132352,Thumb Up
+2670,53417,Turning Hand Counterclockwise
+2675,67111,Pushing Two Fingers Away
+2676,102289,Sliding Two Fingers Right
+2677,15207,Rolling Hand Forward
+2681,115347,Sliding Two Fingers Right
+2684,111642,Rolling Hand Forward
+2685,107609,Sliding Two Fingers Down
+2687,76825,Shaking Hand
+2689,131564,Sliding Two Fingers Left
+2695,76689,Pulling Hand In
+2696,33775,Sliding Two Fingers Down
+2699,37623,No gesture
+2702,44067,Shaking Hand
+2703,37460,No gesture
+2705,93666,Thumb Up
+2706,62765,No gesture
+2708,25360,Sliding Two Fingers Down
+2711,145392,Turning Hand Counterclockwise
+2712,44948,Sliding Two Fingers Right
+2713,61023,Pushing Two Fingers Away
+2719,18217,Sliding Two Fingers Left
+2721,8210,Shaking Hand
+2724,56899,Rolling Hand Forward
+2732,15365,Pulling Hand In
+2733,68043,Rolling Hand Forward
+2734,10616,Turning Hand Counterclockwise
+2735,144711,Pulling Hand In
+2736,16285,No gesture
+2742,76080,Rolling Hand Forward
+2743,120488,Sliding Two Fingers Right
+2745,3819,Sliding Two Fingers Right
+2746,71614,Sliding Two Fingers Left
+2748,138968,Sliding Two Fingers Down
+2749,106871,Thumb Up
+2750,56217,Pushing Two Fingers Away
+2755,9906,No gesture
+2757,6211,No gesture
+2758,144260,Pushing Two Fingers Away
+2759,23672,Pulling Hand In
+2760,54371,Thumb Up
+2762,82648,Pulling Hand In
+2763,141631,Turning Hand Counterclockwise
+2764,124401,Sliding Two Fingers Right
+2766,15657,Turning Hand Counterclockwise
+2767,127965,Pushing Two Fingers Away
+2775,130109,Rolling Hand Forward
+2778,93858,Rolling Hand Forward
+2779,136224,Shaking Hand
+2783,67294,Sliding Two Fingers Left
+2785,93446,Pushing Two Fingers Away
+2787,99529,Sliding Two Fingers Down
+2788,100225,Rolling Hand Forward
+2789,58036,Shaking Hand
+2791,1449,No gesture
+2794,145808,Rolling Hand Forward
+2795,34481,Sliding Two Fingers Left
+2796,2334,Thumb Up
+2797,146202,Sliding Two Fingers Left
+2802,137437,Sliding Two Fingers Right
+2803,143709,Rolling Hand Forward
+2804,142758,Sliding Two Fingers Left
+2805,4793,Sliding Two Fingers Down
+2809,94194,Thumb Up
+2812,85591,No gesture
+2816,110181,Pushing Two Fingers Away
+2817,118869,Shaking Hand
+2820,108833,Pulling Hand In
+2822,6761,Pushing Two Fingers Away
+2823,146794,Sliding Two Fingers Down
+2824,128019,Pushing Two Fingers Away
+2826,111492,No gesture
+2827,93273,Shaking Hand
+2829,130609,Pushing Two Fingers Away
+2832,102471,Shaking Hand
+2833,7790,Pushing Two Fingers Away
+2838,110146,Sliding Two Fingers Down
+2841,53313,Sliding Two Fingers Down
+2844,3648,Thumb Up
+2845,130814,Turning Hand Counterclockwise
+2848,96411,Shaking Hand
+2851,8244,Sliding Two Fingers Down
+2856,30517,Sliding Two Fingers Left
+2858,143689,Turning Hand Counterclockwise
+2866,88941,Shaking Hand
+2869,75369,Sliding Two Fingers Down
+2871,53844,Pushing Two Fingers Away
+2872,30778,Shaking Hand
+2874,55548,No gesture
+2876,87408,Sliding Two Fingers Down
+2877,115091,Sliding Two Fingers Left
+2882,56068,Turning Hand Counterclockwise
+2883,91649,Thumb Up
+2886,121403,Sliding Two Fingers Down
+2887,58514,No gesture
+2893,79547,Pulling Hand In
+2894,90973,Sliding Two Fingers Right
+2899,77759,No gesture
+2900,35458,Thumb Up
+2902,83470,Rolling Hand Forward
+2903,66164,Shaking Hand
+2913,28621,Sliding Two Fingers Left
+2914,92017,Pushing Two Fingers Away
+2922,132322,Turning Hand Counterclockwise
+2923,61038,Pulling Hand In
+2924,120453,Sliding Two Fingers Left
+2925,55893,Shaking Hand
+2926,12881,Pulling Hand In
+2927,12084,Pulling Hand In
+2929,91611,Rolling Hand Forward
+2937,108800,Sliding Two Fingers Right
+2942,146115,Turning Hand Counterclockwise
+2944,49876,Sliding Two Fingers Right
+2945,51073,Thumb Up
+2946,113257,Sliding Two Fingers Left
+2947,112260,Thumb Up
+2951,138925,Shaking Hand
+2953,20191,No gesture
+2955,74030,Turning Hand Counterclockwise
+2956,40212,Sliding Two Fingers Left
+2957,82862,Pushing Two Fingers Away
+2962,85941,Pushing Two Fingers Away
+2968,42739,Sliding Two Fingers Down
+2969,52943,Sliding Two Fingers Down
+2970,135128,Sliding Two Fingers Right
+2971,19031,Pushing Two Fingers Away
+2974,102222,Shaking Hand
+2979,97338,Sliding Two Fingers Right
+2983,50758,Pushing Two Fingers Away
+2984,119649,Turning Hand Counterclockwise
+2991,124602,Sliding Two Fingers Down
+2998,60941,No gesture
+2999,15574,Turning Hand Counterclockwise
+3002,119531,Turning Hand Counterclockwise
+3004,121052,No gesture
+3005,37280,Sliding Two Fingers Right
+3008,60346,Thumb Up
+3009,10099,Sliding Two Fingers Down
+3011,33410,Thumb Up
+3012,63013,Shaking Hand
+3013,23426,Shaking Hand
+3016,25502,Turning Hand Counterclockwise
+3021,32964,Sliding Two Fingers Down
+3025,89266,Shaking Hand
+3026,9211,Pulling Hand In
+3028,141154,Pushing Two Fingers Away
+3032,54005,Pushing Two Fingers Away
+3035,121763,Thumb Up
+3036,43546,Sliding Two Fingers Right
+3037,140314,Pushing Two Fingers Away
+3041,81976,Pushing Two Fingers Away
+3043,102944,Rolling Hand Forward
+3045,59507,No gesture
+3049,11319,Rolling Hand Forward
+3052,105734,Turning Hand Counterclockwise
+3055,68519,No gesture
+3059,81102,Shaking Hand
+3063,63144,Thumb Up
+3064,82230,Pulling Hand In
+3068,94161,Thumb Up
+3070,136132,Turning Hand Counterclockwise
+3071,56263,Pulling Hand In
+3072,40107,Turning Hand Counterclockwise
+3078,35009,Sliding Two Fingers Down
+3082,115087,Rolling Hand Forward
+3084,146910,Pushing Two Fingers Away
+3086,136828,Rolling Hand Forward
+3089,27064,Shaking Hand
+3091,34033,No gesture
+3094,56072,Sliding Two Fingers Left
+3095,76653,Pushing Two Fingers Away
+3096,18961,Sliding Two Fingers Down
+3098,66399,Turning Hand Counterclockwise
+3099,131559,Rolling Hand Forward
+3100,113598,Sliding Two Fingers Down
+3102,138569,Rolling Hand Forward
+3109,76797,Sliding Two Fingers Left
+3110,144470,Pushing Two Fingers Away
+3111,38362,Turning Hand Counterclockwise
+3114,114518,Thumb Up
+3117,80907,Pushing Two Fingers Away
+3118,32267,No gesture
+3119,32092,Sliding Two Fingers Left
+3121,19194,Rolling Hand Forward
+3128,99596,Sliding Two Fingers Left
+3131,22004,Sliding Two Fingers Right
+3133,58992,Sliding Two Fingers Down
+3139,14681,Rolling Hand Forward
+3141,68938,Shaking Hand
+3143,53481,Rolling Hand Forward
+3147,43124,No gesture
+3148,125617,Sliding Two Fingers Right
+3160,90331,Shaking Hand
+3168,54,Sliding Two Fingers Right
+3170,35103,Rolling Hand Forward
+3175,111398,Thumb Up
+3182,95308,Turning Hand Counterclockwise
+3189,77252,Shaking Hand
+3190,144088,No gesture
+3197,9272,No gesture
+3198,109388,Pushing Two Fingers Away
+3203,40838,Thumb Up
+3206,69537,Thumb Up
+3209,36468,Sliding Two Fingers Left
+3210,41739,Sliding Two Fingers Down
+3211,54002,Thumb Up
+3214,47668,Sliding Two Fingers Left
+3215,99368,No gesture
+3221,135574,Pulling Hand In
+3223,8504,Sliding Two Fingers Down
+3226,126436,Sliding Two Fingers Left
+3228,141851,Pulling Hand In
+3231,1423,Pushing Two Fingers Away
+3233,98111,No gesture
+3235,57321,Pushing Two Fingers Away
+3237,53874,Thumb Up
+3239,124845,Sliding Two Fingers Right
+3241,49682,Shaking Hand
+3252,135364,Rolling Hand Forward
+3256,75849,Pulling Hand In
+3257,138319,Shaking Hand
+3259,66724,Sliding Two Fingers Left
+3261,23932,Sliding Two Fingers Left
+3264,144569,Pulling Hand In
+3266,28178,Shaking Hand
+3268,8655,Pulling Hand In
+3273,44725,Thumb Up
+3277,46634,Sliding Two Fingers Left
+3278,128184,Shaking Hand
+3279,92589,Thumb Up
+3280,22849,Turning Hand Counterclockwise
+3285,140446,Rolling Hand Forward
+3287,25463,Turning Hand Counterclockwise
+3290,70725,Sliding Two Fingers Left
+3297,132221,No gesture
+3298,122773,Thumb Up
+3301,161,No gesture
+3304,112746,Thumb Up
+3305,121782,Pushing Two Fingers Away
+3308,60314,Shaking Hand
+3310,17233,No gesture
+3311,19250,Sliding Two Fingers Right
+3312,4315,Turning Hand Counterclockwise
+3318,115999,Pushing Two Fingers Away
+3319,55885,Thumb Up
+3320,8292,Thumb Up
+3321,136035,Rolling Hand Forward
+3322,55937,Pulling Hand In
+3324,113504,Pulling Hand In
+3334,44037,Pushing Two Fingers Away
+3335,95222,Sliding Two Fingers Left
+3343,41039,Sliding Two Fingers Down
+3344,26850,No gesture
+3345,107265,Pulling Hand In
+3346,27567,No gesture
+3347,26349,Rolling Hand Forward
+3352,97041,Rolling Hand Forward
+3353,105207,Pushing Two Fingers Away
+3359,133964,Sliding Two Fingers Left
+3367,146721,Shaking Hand
+3369,93256,Turning Hand Counterclockwise
+3371,20167,Sliding Two Fingers Right
+3374,120791,Shaking Hand
+3377,114436,No gesture
+3378,38894,Sliding Two Fingers Down
+3379,90975,Sliding Two Fingers Right
+3384,4590,Shaking Hand
+3386,106160,Thumb Up
+3387,89431,Pulling Hand In
+3389,96923,No gesture
+3395,92408,Pulling Hand In
+3397,108787,Sliding Two Fingers Right
+3398,30527,Shaking Hand
+3400,50611,No gesture
+3404,38538,Turning Hand Counterclockwise
+3405,110916,Shaking Hand
+3406,48384,Shaking Hand
+3409,94619,Rolling Hand Forward
+3410,51223,Rolling Hand Forward
+3411,16626,Sliding Two Fingers Left
+3413,55792,Pushing Two Fingers Away
+3415,17086,Turning Hand Counterclockwise
+3418,70177,Pulling Hand In
+3419,77709,Sliding Two Fingers Left
+3420,145772,No gesture
+3421,88352,Pushing Two Fingers Away
+3422,52055,Rolling Hand Forward
+3423,56533,Sliding Two Fingers Down
+3424,108236,Shaking Hand
+3427,105477,Pushing Two Fingers Away
+3430,92444,Turning Hand Counterclockwise
+3431,126454,No gesture
+3432,105868,Thumb Up
+3434,11184,Shaking Hand
+3436,38457,Pushing Two Fingers Away
+3444,94409,Pulling Hand In
+3445,79220,Rolling Hand Forward
+3449,135575,Sliding Two Fingers Right
+3450,119913,Sliding Two Fingers Down
+3452,93292,Pushing Two Fingers Away
+3455,18278,Turning Hand Counterclockwise
+3459,139098,Thumb Up
+3460,21968,Turning Hand Counterclockwise
+3467,30744,Turning Hand Counterclockwise
+3474,126876,Sliding Two Fingers Right
+3485,127209,Shaking Hand
+3486,33315,Pushing Two Fingers Away
+3493,108366,Shaking Hand
+3494,71388,Rolling Hand Forward
+3497,63156,Rolling Hand Forward
+3500,113740,Sliding Two Fingers Down
+3501,21492,Pulling Hand In
+3504,104745,No gesture
+3507,87426,Thumb Up
+3510,41298,Thumb Up
+3512,107205,Pushing Two Fingers Away
+3514,92650,Rolling Hand Forward
+3517,36060,Sliding Two Fingers Right
+3522,72148,Pulling Hand In
+3525,55669,Rolling Hand Forward
+3527,72496,Thumb Up
+3536,139567,Rolling Hand Forward
+3538,67913,Pushing Two Fingers Away
+3539,74302,Pulling Hand In
+3540,84437,Sliding Two Fingers Left
+3541,80476,Shaking Hand
+3542,125269,Sliding Two Fingers Left
+3544,98265,Sliding Two Fingers Right
+3551,140891,Sliding Two Fingers Right
+3555,123322,Pushing Two Fingers Away
+3558,140038,Sliding Two Fingers Down
+3559,66711,Turning Hand Counterclockwise
+3566,34762,Sliding Two Fingers Left
+3571,101978,No gesture
+3573,45351,Sliding Two Fingers Left
+3574,3996,No gesture
+3575,28885,Sliding Two Fingers Left
+3577,66945,Sliding Two Fingers Right
+3581,122984,Shaking Hand
+3584,65720,Sliding Two Fingers Down
+3591,117098,Shaking Hand
+3596,14576,Turning Hand Counterclockwise
+3597,115918,Shaking Hand
+3601,103950,Sliding Two Fingers Down
+3603,97106,Pulling Hand In
+3611,137456,Thumb Up
+3613,9924,No gesture
+3615,113221,Thumb Up
+3617,126693,Shaking Hand
+3619,6926,Thumb Up
+3623,126759,Pulling Hand In
+3625,7297,Sliding Two Fingers Right
+3641,117390,Pulling Hand In
+3646,95789,Pulling Hand In
+3649,7331,Pulling Hand In
+3653,22588,Sliding Two Fingers Right
+3654,35919,Sliding Two Fingers Right
+3656,107544,Rolling Hand Forward
+3657,37938,Pushing Two Fingers Away
+3660,76814,Thumb Up
+3661,53866,Rolling Hand Forward
+3662,76476,Pulling Hand In
+3666,97547,Shaking Hand
+3667,120538,Pushing Two Fingers Away
+3674,104701,Sliding Two Fingers Right
+3675,73662,Thumb Up
+3676,33895,Turning Hand Counterclockwise
+3680,83850,Turning Hand Counterclockwise
+3681,133095,Turning Hand Counterclockwise
+3686,112967,Rolling Hand Forward
+3691,137454,No gesture
+3694,53409,Thumb Up
+3697,73418,No gesture
+3698,43081,Thumb Up
+3700,38421,Thumb Up
+3701,62735,Sliding Two Fingers Right
+3709,81260,Sliding Two Fingers Right
+3711,70375,Pulling Hand In
+3713,57213,Turning Hand Counterclockwise
+3714,80191,Pulling Hand In
+3717,128542,Sliding Two Fingers Left
+3721,74851,Pushing Two Fingers Away
+3726,78761,Sliding Two Fingers Down
+3731,59396,Sliding Two Fingers Left
+3734,108229,Pulling Hand In
+3735,9058,Turning Hand Counterclockwise
+3744,98573,Sliding Two Fingers Right
+3746,100296,No gesture
+3748,146133,Shaking Hand
+3750,44423,Turning Hand Counterclockwise
+3757,36652,Pulling Hand In
+3762,67601,Pushing Two Fingers Away
+3763,25913,Thumb Up
+3766,65220,Rolling Hand Forward
+3767,22585,Pushing Two Fingers Away
+3768,101246,Thumb Up
+3770,31986,Thumb Up
+3771,24694,Turning Hand Counterclockwise
+3772,6504,Turning Hand Counterclockwise
+3773,88922,Thumb Up
+3775,110531,No gesture
+3776,124159,Pulling Hand In
+3777,90297,Thumb Up
+3780,3593,Thumb Up
+3781,81254,Sliding Two Fingers Left
+3783,38241,Sliding Two Fingers Right
+3784,104511,Sliding Two Fingers Left
+3789,73948,Pushing Two Fingers Away
+3790,52641,Rolling Hand Forward
+3794,12690,Sliding Two Fingers Left
+3796,53993,No gesture
+3799,10351,Pulling Hand In
+3801,130588,Shaking Hand
+3808,145073,Pulling Hand In
+3811,147640,Pulling Hand In
+3816,61783,Sliding Two Fingers Down
+3824,24469,Pushing Two Fingers Away
+3825,133808,Sliding Two Fingers Right
+3828,43502,No gesture
+3833,144571,Shaking Hand
+3834,17017,Sliding Two Fingers Down
+3839,31442,Pulling Hand In
+3841,58861,Sliding Two Fingers Left
+3843,21626,Sliding Two Fingers Left
+3844,130279,Pulling Hand In
+3846,102268,Pushing Two Fingers Away
+3847,92573,Sliding Two Fingers Right
+3848,93307,Pushing Two Fingers Away
+3850,88856,Sliding Two Fingers Right
+3851,56601,No gesture
+3852,66230,No gesture
+3859,29275,Thumb Up
+3862,32762,Turning Hand Counterclockwise
+3863,122872,Turning Hand Counterclockwise
+3864,139896,Sliding Two Fingers Down
+3867,52320,Pulling Hand In
+3871,130927,No gesture
+3872,117064,Rolling Hand Forward
+3876,79632,Pulling Hand In
+3882,85286,Turning Hand Counterclockwise
+3887,52960,Sliding Two Fingers Down
+3888,138836,Rolling Hand Forward
+3896,88235,Thumb Up
+3897,133858,Sliding Two Fingers Left
+3899,60235,Pushing Two Fingers Away
+3900,61380,Sliding Two Fingers Left
+3901,114932,Turning Hand Counterclockwise
+3902,108969,Rolling Hand Forward
+3905,64271,Sliding Two Fingers Right
+3906,61675,Sliding Two Fingers Left
+3910,55833,Turning Hand Counterclockwise
+3914,39192,Thumb Up
+3915,125779,Thumb Up
+3917,106128,Thumb Up
+3920,136661,Sliding Two Fingers Down
+3921,3484,Sliding Two Fingers Right
+3923,32481,Sliding Two Fingers Left
+3924,138473,Pushing Two Fingers Away
+3927,40235,Pulling Hand In
+3928,63567,Turning Hand Counterclockwise
+3933,78877,Sliding Two Fingers Down
+3936,130130,Sliding Two Fingers Right
+3939,35833,Rolling Hand Forward
+3941,108658,Thumb Up
+3942,49632,Sliding Two Fingers Down
+3953,39210,Shaking Hand
+3954,23602,Sliding Two Fingers Right
+3955,74463,Pulling Hand In
+3958,73047,Sliding Two Fingers Right
+3965,991,Sliding Two Fingers Right
+3968,9730,Shaking Hand
+3974,127192,Turning Hand Counterclockwise
+3975,94736,Pulling Hand In
+3977,124749,Rolling Hand Forward
+3980,99340,Pushing Two Fingers Away
+3982,77403,No gesture
+3984,10279,Pushing Two Fingers Away
+3985,147644,Pushing Two Fingers Away
+3988,93492,Thumb Up
+3996,40553,Thumb Up
+3998,6052,Sliding Two Fingers Down
