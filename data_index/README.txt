@@ -1,4 +1,4 @@
-These csv files contains indices of 1/5 original dataset. 
+These csv files contains indices of about 1/10 original dataset. 
 
 Get_Subdataset.ipynb contains code to get the sub-dataset indices.
 
